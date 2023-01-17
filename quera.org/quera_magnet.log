@@ -1,0 +1,90 @@
+2023-01-05 13:35:31,037 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=1]
+2023-01-05 13:35:31,044 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:35:33,469 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=1 HTTP/1.1" 200 None
+2023-01-05 13:35:33,782 INFO: This page scraped successfully.
+2023-01-05 13:35:33,783 INFO: Sleeping for 1.6420000000000001 seconds
+2023-01-05 13:35:35,433 INFO: Woke up
+2023-01-05 13:35:35,435 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=2]
+2023-01-05 13:35:35,443 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:35:38,305 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=2 HTTP/1.1" 200 None
+2023-01-05 13:35:38,685 INFO: This page scraped successfully.
+2023-01-05 13:35:38,685 INFO: Sleeping for 1.8780000000000001 seconds
+2023-01-05 13:35:40,579 INFO: Woke up
+2023-01-05 13:35:40,580 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=3]
+2023-01-05 13:35:40,590 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:35:42,521 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=3 HTTP/1.1" 200 None
+2023-01-05 13:35:42,837 INFO: This page scraped successfully.
+2023-01-05 13:35:42,837 INFO: Sleeping for 0.666 seconds
+2023-01-05 13:35:43,509 INFO: Woke up
+2023-01-05 13:35:43,511 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=4]
+2023-01-05 13:35:43,518 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:35:45,655 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=4 HTTP/1.1" 200 None
+2023-01-05 13:35:45,917 INFO: This page scraped successfully.
+2023-01-05 13:35:45,917 INFO: Sleeping for 1.808 seconds
+2023-01-05 13:35:47,735 INFO: Woke up
+2023-01-05 13:35:47,736 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=5]
+2023-01-05 13:35:47,744 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:35:49,698 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=5 HTTP/1.1" 200 None
+2023-01-05 13:35:49,994 INFO: This page scraped successfully.
+2023-01-05 13:35:49,994 INFO: Sleeping for 0.865 seconds
+2023-01-05 13:35:50,872 INFO: Woke up
+2023-01-05 13:35:50,872 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=6]
+2023-01-05 13:35:50,875 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:35:52,725 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=6 HTTP/1.1" 200 None
+2023-01-05 13:35:53,132 INFO: This page scraped successfully.
+2023-01-05 13:35:53,133 INFO: Sleeping for 1.569 seconds
+2023-01-05 13:35:54,717 INFO: Woke up
+2023-01-05 13:35:54,719 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=7]
+2023-01-05 13:35:54,727 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:35:56,870 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=7 HTTP/1.1" 200 None
+2023-01-05 13:35:57,158 INFO: This page scraped successfully.
+2023-01-05 13:35:57,158 INFO: Sleeping for 0.749 seconds
+2023-01-05 13:35:57,914 INFO: Woke up
+2023-01-05 13:35:57,915 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=8]
+2023-01-05 13:35:57,923 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:36:00,145 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=8 HTTP/1.1" 200 None
+2023-01-05 13:36:00,448 INFO: This page scraped successfully.
+2023-01-05 13:36:00,448 INFO: Sleeping for 1.6260000000000001 seconds
+2023-01-05 13:36:02,075 INFO: Woke up
+2023-01-05 13:36:02,077 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=9]
+2023-01-05 13:36:02,084 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:36:04,017 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=9 HTTP/1.1" 200 None
+2023-01-05 13:36:04,315 INFO: This page scraped successfully.
+2023-01-05 13:36:04,315 INFO: Sleeping for 1.577 seconds
+2023-01-05 13:36:05,895 INFO: Woke up
+2023-01-05 13:36:05,896 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=10]
+2023-01-05 13:36:05,905 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:36:07,838 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=10 HTTP/1.1" 200 None
+2023-01-05 13:36:08,186 INFO: This page scraped successfully.
+2023-01-05 13:36:08,187 INFO: Sleeping for 1.164 seconds
+2023-01-05 13:36:09,359 INFO: Woke up
+2023-01-05 13:36:09,361 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=11]
+2023-01-05 13:36:09,368 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:36:11,459 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=11 HTTP/1.1" 200 None
+2023-01-05 13:36:11,829 INFO: This page scraped successfully.
+2023-01-05 13:36:11,829 INFO: Sleeping for 1.499 seconds
+2023-01-05 13:36:13,336 INFO: Woke up
+2023-01-05 13:36:13,336 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=12]
+2023-01-05 13:36:13,338 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:36:15,670 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=12 HTTP/1.1" 200 None
+2023-01-05 13:36:15,981 INFO: This page scraped successfully.
+2023-01-05 13:36:15,982 INFO: Sleeping for 1.546 seconds
+2023-01-05 13:36:17,536 INFO: Woke up
+2023-01-05 13:36:17,537 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=13]
+2023-01-05 13:36:17,544 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:36:19,653 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=13 HTTP/1.1" 200 None
+2023-01-05 13:36:19,959 INFO: This page scraped successfully.
+2023-01-05 13:36:19,959 INFO: Sleeping for 1.957 seconds
+2023-01-05 13:36:21,922 INFO: Woke up
+2023-01-05 13:36:21,923 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=14]
+2023-01-05 13:36:21,925 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:36:23,903 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=14 HTTP/1.1" 200 None
+2023-01-05 13:36:24,210 INFO: This page scraped successfully.
+2023-01-05 13:36:24,211 INFO: Sleeping for 1.077 seconds
+2023-01-05 13:36:25,300 INFO: Woke up
+2023-01-05 13:36:25,302 INFO: Starting to scrape the page [https://quera.org/magnet/jobs?order=high_salary&page=15]
+2023-01-05 13:36:25,320 DEBUG: Starting new HTTPS connection (1): quera.org:443
+2023-01-05 13:36:27,526 DEBUG: https://quera.org:443 "GET /magnet/jobs?order=high_salary&page=15 HTTP/1.1" 200 None
+2023-01-05 13:36:27,817 INFO: This page scraped successfully.
+2023-01-05 13:36:27,817 INFO: Sleeping for 1.85 seconds
+2023-01-05 13:36:29,682 INFO: Woke up
