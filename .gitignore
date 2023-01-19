@@ -1,3 +1,7 @@
 /venv/*
 /shahreketabonline.com/**/*test*
 /shahreketabonline.com/**/*temp*
+/shahreketabonline.com/**/*cache*
+/shahreketabonline.com/**/*log*
+shahreketabonline.com/**/*tmp*
+shahreketabonline.com/**/*pyc*
