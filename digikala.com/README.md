@@ -1,0 +1,4 @@
+# Scrapping Digikala.com
+## DATA ANALYSIS QUERA BOOTCAMP Practice
+### Implemented By : MHH 
+#### INSTAGRAM ID = IMHI98 , EMAIL ADDRESS : M.HOSEIN.HAFEZI.M@GMAIL.COM
