@@ -1,0 +1,6 @@
+geckodriver.log
+*.css
+prices.csv
+Drivers/*
+report.txt
+*.pyc
