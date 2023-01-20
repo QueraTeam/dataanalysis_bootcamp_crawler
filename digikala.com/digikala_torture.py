@@ -14,8 +14,7 @@ from logging.handlers import RotatingFileHandler
 
 dirname = os.path.dirname(__file__)
 
-my_handler = RotatingFileHandler(dirname+'\\report.txt', mode='w', maxBytes=5*1024, backupCount=0, encoding=None, delay=0)
-logging.basicConfig(format='[TIME: %(asctime)s] [DigiKala@Torture] %(levelname)s: %(message)s', level=logging.INFO,handlers=[my_handler]) #filename='Practices/log.log',
+logging.basicConfig(filename=dirname+'\\report.txt',filemode="w",format='[TIME: %(asctime)s] [DigiKala@Torture] %(levelname)s: %(message)s', level=logging.INFO) #filename='Practices/log.log',
 LOGGER = logging.getLogger("digikala@torture")
 
 
@@ -75,43 +74,44 @@ try:
     option,value,state = "h3","class","ellipsis-2 text-body2-strong color-700"
     datas_name = driver.find_elements(By.XPATH,xpath_builder(option,value,state))
 except Exception as e :
-    syslogger(e)
+    syslogger(sev="error",msg = e)
 
 datas_name_text = []
 for data in datas_name:
-    datas_name_text.append(data.text)
+    datas_name_text.append(data.text.encode().decode('utf-8-sig'))
 syslogger(f"{datas_name_text}")
 
 try:
     option,value,state = "div","class","d-flex ai-center jc-end gap-1 color-700 color-400 text-h5 grow-1"
     datas_price = driver.find_elements(By.XPATH,xpath_builder(option,value,state))
 except Exception as e :
-    syslogger(e)
+    syslogger(sev="error",msg = e)
     
 datas_price_text = []
 for ind , data in enumerate(datas_price):
-    datas_price_text.append(data.text)
+    datas_price_text.append(data.text.encode().decode('utf-8-sig'))
 syslogger(f"{datas_price_text}")
 
 try:    
     j={   "number":[z for z in range(1,len(datas_name)+1)],
           "name":[x.text for x in datas_name],
           "price":[y.text.replace(",","") for y in datas_price]}
-    syslogger(f"gathering data to save as csv and parse it as dataFrame! data as dict is :{j}")
 except Exception as e :
-    syslogger(e)
+    syslogger(sev="error",msg = e)
     
 converted_nums = []
-for key in j["price"]:
-    string = multiple_replace(key)
+for key in datas_price:
+    con = key.text.replace(',','')
+    string = multiple_replace(con)
     converted_nums.append(string)
 j["price"] = converted_nums
+syslogger(f"gathering data to save as csv and parse it as dataFrame! data as dict is :{j}")
 
 try:
     df = pd.DataFrame.from_dict(j)
     df.to_csv(os.path.dirname(__file__)+"\\prices.csv",mode="w")
 except Exception as e :
-    syslogger(e)
+    syslogger(sev="error",msg = e)
 try:
     dataf = pd.read_csv(os.path.dirname(__file__)+"\\prices.csv",index_col="number")
     dataf.drop("Unnamed: 0",axis=1,inplace=True)
@@ -121,20 +121,23 @@ try:
     syslogger(f"mean is {mean_price}")
 
     f = []
+    diff = 1000000
     for price in dataf["price"]:
-        diff = 1000000
         f.append(int(price)-mean_price)
-        if abs(int(price)-mean_price) < diff:
+        if abs(int(price)-mean_price) < abs(diff):
             diff = int(price)-mean_price
-
+    # for i,d in enumerate(f) :
+    #     big_border = 1
+            
+    syslogger(f"closest value dif is : {diff}")
     for i,d in enumerate(f) :
         if diff == d:
-            index_closest = i - 1
+            index_closest = i
         else:
             pass
 
-    syslogger(f"most close price of product to mean calculated in this program is index : {index_closest} and name is : {datas_name[index_closest].text} so value is : {datas_price[index_closest].text}")   
 except Exception as e :
-    syslogger(e)
-
+    syslogger(sev="error",msg = e)
+finally:
+    syslogger(f"most close price of product to mean calculated in this program is index : {index_closest+1} and name is : {datas_name[index_closest].text.encode().decode('utf-8-sig')} so value is : {datas_price[index_closest].text.encode().decode('utf-8-sig')}") 
 driver.quit()
