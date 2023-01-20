@@ -35,7 +35,7 @@ class ShahreketabonilneSpider(scrapy.Spider):
             product_info['name'] = name
             product_info['url'] = url
             self.product_infos.append(product_info)
-        print(len(self.product_infos))
+        print(int(next_page) - 1)
 
         if next_page is not None:
 
