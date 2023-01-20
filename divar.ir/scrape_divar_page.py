@@ -20,6 +20,7 @@ f.write(page.text)
 f.close()
 
 # %%
+# این قسمت رو تابع کردم که اگر مشکل کامل لود نشدن صفحه رو توسط selenium خواستیم حل کنیم با این تابع راحت تر بشه کار رو پیش برد. هرچند بهتره که اون api رو بتونیم استفاده کنیم.
 def divar_page_to_DataFrame(page):
     soup = BeautifulSoup(page.text , "html.parser")
 
@@ -48,18 +49,10 @@ if "data.csv" not in os.listdir():
 else:
     df = pd.read_csv("data.csv").set_index("لینک")
 
-df = pd.merge(df , df_ , how='outer' )
-df.to_csv("data.csv")
+# %%
+df = pd.merge(df_ , df , how='outer' , on=["لینک" , "عنوان" , "قیمت" , "مکان"])
+df.reset_index(inplace=True)
+df.to_csv("data.csv" , index=False)
 
 
-# %%
-df
-# %%
-df_
-# %%
-df = pd.DataFrame(columns=["لینک" , "عنوان" , "قیمت" , "مکان"]).set_index("لینک")
-df
-# %%
-df = pd.merge(df , df_ , how='outer' )
-df
 # %%
