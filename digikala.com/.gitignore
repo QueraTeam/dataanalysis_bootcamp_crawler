@@ -1,14 +1,6 @@
-**/__pycache__/
-*/venv/*
-/.idea/
-db.sqlite3
 geckodriver.log
-*.html
-**/assests/
-assests
-*/assests/*
-*.png
-*/*.png/
 *.css
 prices.csv
 Drivers/*
+report.txt
+*.pyc
