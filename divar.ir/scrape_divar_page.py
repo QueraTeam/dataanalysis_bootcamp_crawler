@@ -9,11 +9,14 @@ import time
 import os
 from functions import send_to_bale
 # %%
-
+# باید ارتباط این لینک و فیلترها و دسته بندی‌های مختلف رو پیدا کرد.
 url = "https://api.divar.ir/v8/web-search/3/residential-sell"
+
 headers = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
 "accept-language": "en-US,en;q=0.9,fa;q=0.8"}
-data = {"json_schema":{"category":{"value":"residential-sell"},"cities":["3"]},"last-post-date":1774384963529066}
+
+# باید ارتباط بخش‌های مختلف این json و فیلترها و کوئری‌های مختلف رو پیدا کرد.
+data = {"json_schema":{"category":{"value":"residential-sell"},"cities":["3"]},"last-post-date":9774384963529066} # اینجا باید یک عدد بزرگ وارد کرد که همیشه نتایج بروز باشه.
 session = requests.Session()
 response = session.post(url, headers=headers, json=data)
 
@@ -54,6 +57,3 @@ else:
 df = pd.merge(df_ , df , how='outer' , on=["لینک" , "عنوان" , "قیمت" , "مکان"])
 df.reset_index(inplace=True)
 df.to_csv("data.csv" , index=False)
-
-
-# %%
