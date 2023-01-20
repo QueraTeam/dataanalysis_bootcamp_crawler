@@ -1,4 +1,8 @@
 # %%
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from time import sleep
 import json
 import requests
 from bs4 import BeautifulSoup
@@ -8,9 +12,37 @@ import time
 import os
 from functions import send_to_bale
 # %%
-url = "https://divar.ir/s/mashhad/buy-residential"
+driver = webdriver.Firefox()
 
+
+
+# %%
+url = "https://divar.ir/s/mashhad/buy-residential"
+driver.get(url)
+# %%
+                                                #post-card-item-af972 kt-col-6-bee95 kt-col-xxl-4-e9d46
+body = driver.find_element(By.TAG_NAME , "body")
+html = driver.find_element(By.TAG_NAME , "html")
+agahi_ha = driver.find_elements(By.CSS_SELECTOR , 'div.post-card-item-af972')
+# %%
+print(len(agahi_ha))
+# %%
+for i in range(10):
+    driver.execute_script("arguments[0].scrollIntoView();",agahi_ha[-1])
+    agahi_ha = driver.find_elements(By.CSS_SELECTOR , 'div.post-card-item-af972')
+    
+    sleep(1)
+    print(len(agahi_ha))
+# %%
+print(agahi_ha[-1].text)
+print(agahi_ha[0].text)
+print()
+soup = BeautifulSoup(driver)
+# %%
+driver.quit()
 page = requests.get(url)
+# %%
+
 
 # %%
 # اینجا کمک می‌کنه بفهمیم چه چیزایی استخراج شده
