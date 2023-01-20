@@ -16,13 +16,17 @@ f.write(page.text)
 f.close()
 
 # %%
-url = "https://api.divar.ir/v8/web-search/3/residential-sell"
-page = requests.get(url)
+url = "https://api.divar.ir/v8/web-search/3/ROOT"
+# %%
+#                                                                                                      1674207963881798
+parametr = {"json_schema":{"category":{"value":"ROOT"},"query":"خانه","cities":["3"]},"last-post-date":1674207963889798}
+# %%
+page = requests.post(url , data = parametr)
 
 # %%
 json.dumps(page.text)
 # %%
-page.text
+page
 # %%
 
 # %%
