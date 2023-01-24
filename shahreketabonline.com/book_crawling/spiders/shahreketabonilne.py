@@ -4,6 +4,8 @@ import requests
 from bs4 import BeautifulSoup
 import time
 from tqdm import tqdm
+import pandas as pd
+from datetime import datetime
 
 
 def get_start_urls() -> list:
@@ -57,6 +59,12 @@ class ShahreketabonilneSpider(scrapy.Spider):
     def parse_product(self, response):
         print(response.url)
         product_info = ProductInfo()
+        info = dict()
+        info["name"] = list()
+        info["url"] = list()
+        info["image_link"] = list()
+        info["page_number"] = list()
+        info["updated_at"] = list()
         all_res = response.css("div.ProductWrapper")
 
         for each_res in all_res:
@@ -64,21 +72,26 @@ class ShahreketabonilneSpider(scrapy.Spider):
             url = self.base_url + each_res.css("div.text > a::attr(href)").extract()[0].strip()
             image_link = each_res.css("div.book-wrap > img::attr(data-src)").extract()
 
-            product_info['name'] = name
-            product_info['url'] = url
+            info['name'].append(name)
+            info['url'].append(url)
 
             if len(image_link) == 1:
                 image_link = image_link[0].strip()
-                product_info["image_link"] = self.base_url + image_link
+                info["image_link"].append(self.base_url + image_link)
             else:
                 image_link = ""
-                product_info["image_link"] = image_link
+                info["image_link"].append(image_link)
 
-            product_info['page_number'] = int(response.url.split("Page=")[1].split("&")[0])
+            info['page_number'].append(int(response.url.split("Page=")[1].split("&")[0]))
 
-            self.product_infos.append(product_info)
+        product_info["name"] = info["name"]
+        product_info["url"] = info["url"]
+        product_info["image_link"] = info["image_link"]
+        product_info["page_number"] = info["page_number"]
         self.count += 1
         print("{}/{}".format(self.count, len(self.start_urls)))
+
+        return product_info
 
         """if next_page is not None:
 

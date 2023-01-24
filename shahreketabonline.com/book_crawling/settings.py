@@ -63,9 +63,9 @@ CONCURRENT_REQUESTS = 16
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'book_crawling.pipelines.BookCrawlingPipeline': 300,
-#}
+ITEM_PIPELINES = {
+    'book_crawling.pipelines.BookCrawlingPipelineInfo': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
