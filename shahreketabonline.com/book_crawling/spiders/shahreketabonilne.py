@@ -1,12 +1,38 @@
 import scrapy
 from book_crawling.items import ProductInfo
+import requests
+from bs4 import BeautifulSoup
 import time
+from tqdm import tqdm
+
+
+def get_start_urls() -> list:
+    res_list = []
+    url = "https://shahreketabonline.com/Products?ValueID=&AttributeDescriptionID=&PackageID=&CategoryID=&ProductTypeID=&TagID=&Page=1&ShowCase=False&Name=&Available=true&SortColumn=Price&DirectionTe&ValueID=&AttributeDescriptionID=&PackageID=&CategoryID=&ProductTypeID=&TagID=&Page=1&ShowCase=False&Name=&Available=&SortColumn=Price&DirectionText=DESC"
+    base_headers = {
+        "user-agent": """Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36""",
+        "x-requested-with": "XMLHttpRequest"
+    }
+    response = requests.get(url, headers=base_headers)
+    soup = BeautifulSoup(response.text, "html.parser")
+    pages_tag = soup.find_all("li", attrs={"class": "page-item"})
+
+    last_page_tag = pages_tag[-3]
+    last_page = int(last_page_tag.getText().strip())
+    for i in range(1, last_page + 1):
+        res_list.append(f"https://shahreketabonline.com/Products?ValueID=&AttributeDescriptionID=&PackageID=&CategoryID=&ProductTypeID=&TagID=&Page={i}&ShowCase=False&Name=&Available=true&SortColumn=Price&DirectionTe&ValueID=&AttributeDescriptionID=&PackageID=&CategoryID=&ProductTypeID=&TagID=&Page=1&ShowCase=False&Name=&Available=&SortColumn=Price&DirectionText=DESC")
+
+    return res_list
 
 
 class ShahreketabonilneSpider(scrapy.Spider):
     name = 'shahreketabonilne'
     allowed_domains = ['shahreketabonline.com']
-    start_urls = ["https://shahreketabonline.com/Products?ValueID=&AttributeDescriptionID=&PackageID=&CategoryID=&ProductTypeID=&TagID=&Page=1&ShowCase=False&Name=&Available=&SortColumn=Price&DirectionTe&ValueID=&AttributeDescriptionID=&PackageID=&CategoryID=&ProductTypeID=&TagID=&Page=1&ShowCase=False&Name=&Available=&SortColumn=Price&DirectionText=DESC"]
+
+    """start_urls = ["https://shahreketabonline.com/Products?ValueID=&AttributeDescriptionID=&PackageID=&CategoryID=&ProductTypeID=&TagID=&Page=1&ShowCase=False&Name=&Available=true&SortColumn=Price&DirectionTe&ValueID=&AttributeDescriptionID=&PackageID=&CategoryID=&ProductTypeID=&TagID=&Page=1&ShowCase=False&Name=&Available=&SortColumn=Price&DirectionText=DESC",
+                  "https://shahreketabonline.com/Products?ValueID=&AttributeDescriptionID=&PackageID=&CategoryID=&ProductTypeID=&TagID=&Page=10000&ShowCase=False&Name=&Available=&SortColumn=Price&DirectionTe&ValueID=&AttributeDescriptionID=&PackageID=&CategoryID=&ProductTypeID=&TagID=&Page=1&ShowCase=False&Name=&Available=&SortColumn=Price&DirectionText=DESC"]"""
+
+    start_urls = get_start_urls()
 
     pure_url = "https://shahreketabonline.com/Products?ValueID=&AttributeDescriptionID=&PackageID=&CategoryID=&ProductTypeID=&TagID=&Page={}&ShowCase=False&Name=&Available=&SortColumn=Price&DirectionTe&ValueID=&AttributeDescriptionID=&PackageID=&CategoryID=&ProductTypeID=&TagID=&Page=1&ShowCase=False&Name=&Available=&SortColumn=Price&DirectionText=DESC"
 
@@ -18,10 +44,15 @@ class ShahreketabonilneSpider(scrapy.Spider):
         }
 
     base_url = "https://shahreketabonline.com"
+    count = 0
 
     def parse(self, response, **kwargs):
         for url in self.start_urls:
-            yield scrapy.Request(url, callback=self.parse_product, headers=self.base_headers)
+            page_number = int(url.split("Page=")[1].split("&")[0])
+            yield scrapy.Request(url,
+                                 callback=self.parse_product,
+                                 headers=self.base_headers,
+                                 priority=len(self.start_urls) - page_number)
 
     def parse_product(self, response):
         print(response.url)
@@ -35,12 +66,15 @@ class ShahreketabonilneSpider(scrapy.Spider):
             product_info['name'] = name
             product_info['url'] = url
             self.product_infos.append(product_info)
-        print(int(next_page) - 1)
+        self.count += 1
+        print("{}/{}".format(self.count, len(self.start_urls)))
 
-        if next_page is not None:
+        """if next_page is not None:
 
             next_page_url = self.pure_url.format(next_page)
-            yield scrapy.Request(next_page_url, callback=self.parse_product, headers=self.base_headers)
+            yield scrapy.Request(next_page_url, callback=self.parse_product, headers=self.base_headers)"""
+
+
 
 
 
