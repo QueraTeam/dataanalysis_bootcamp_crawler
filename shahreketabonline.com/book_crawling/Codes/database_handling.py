@@ -20,5 +20,30 @@ class DatabaseHandling:
 
     def get_all_data(self, table_name):
         sql_query = "SELECT * FROM {}".format(table_name)
-        df = pd.read_sql_query(sql_query, self.connection)
+        try:
+            df = pd.read_sql_query(sql_query, self.connection)
+        except Error as e:
+            df = pd.DataFrame()
         return df
+
+    def create_table_product_info(self):
+        sql_query = """CREATE TABLE IF NOT EXISTS product_info (
+                    'url' text PRIMARY KEY,
+                    'name' text,
+                    'image_link' text,
+                    'page_number' text,
+                    'updated_at' text
+                    );"""
+        self.cursor.execute(sql_query)
+        self.connection.commit()
+
+    def update_table_product_info(self, df):
+        for index, row in df.iterrows():
+            sql_query = """UPDATE product_info SET page_number = '{}',
+             updated_at = '{}',
+             'name' = '{}',
+             image_link = '{}'
+             WHERE url = '{}'""".format(row["page_number"], row["updated_at"], row["name"], row["image_link"], row["url"])
+            self.cursor.execute(sql_query)
+            self.connection.commit()
+
