@@ -58,13 +58,24 @@ class ShahreketabonilneSpider(scrapy.Spider):
         print(response.url)
         product_info = ProductInfo()
         all_res = response.css("div.ProductWrapper")
-        next_page = response.css("ul.pagination > li.active + li > a::text").extract_first()
 
         for each_res in all_res:
             name = each_res.css("div.text > a::text").extract()[0].strip()
             url = self.base_url + each_res.css("div.text > a::attr(href)").extract()[0].strip()
+            image_link = each_res.css("div.book-wrap > img::attr(data-src)").extract()
+
             product_info['name'] = name
             product_info['url'] = url
+
+            if len(image_link) == 1:
+                image_link = image_link[0].strip()
+                product_info["image_link"] = self.base_url + image_link
+            else:
+                image_link = ""
+                product_info["image_link"] = image_link
+
+            product_info['page_number'] = int(response.url.split("Page=")[1].split("&")[0])
+
             self.product_infos.append(product_info)
         self.count += 1
         print("{}/{}".format(self.count, len(self.start_urls)))
