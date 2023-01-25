@@ -21,6 +21,11 @@ class BookCrawlingPipelineInfo:
     def open_spider(self, spider):
         database_handler = DatabaseHandling()
         database_handler.create_table_product_info()
+
+    def close_spider(self, spider):
+        database_handler = DatabaseHandling()
+        database_handler.vacuum()
+
     def process_item(self, item, spider):
         database_handler = DatabaseHandling()
         con, cur = database_handler.get_connection()
@@ -28,7 +33,7 @@ class BookCrawlingPipelineInfo:
                            "name": item["name"],
                            "image_link": item["image_link"],
                            "page_number": item["page_number"]})
-        df["updated_at"] = str(datetime.now())
+        df["updated_at"] = int(datetime.now().timestamp())
 
         # clean data
 
@@ -57,7 +62,6 @@ class BookCrawlingPipelineInfo:
         new_df = new_df[~(new_df["url"].isin(df_database["url"]))].copy()
         new_df.drop(columns=["_merge"], inplace=True)
 
-        new_df["updated_at"] = str(datetime.now())
         new_df.to_sql("product_info", con, if_exists="append", index=False)
 
         # update data

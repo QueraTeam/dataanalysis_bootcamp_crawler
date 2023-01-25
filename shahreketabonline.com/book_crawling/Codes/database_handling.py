@@ -32,7 +32,7 @@ class DatabaseHandling:
                     'name' text,
                     'image_link' text,
                     'page_number' text,
-                    'updated_at' text
+                    'updated_at' INTEGER
                     );"""
         self.cursor.execute(sql_query)
         self.connection.commit()
@@ -46,4 +46,17 @@ class DatabaseHandling:
              WHERE url = '{}'""".format(row["page_number"], row["updated_at"], row["name"], row["image_link"], row["url"])
             self.cursor.execute(sql_query)
             self.connection.commit()
+
+    def get_data(self, sql_query):
+        try:
+            df = pd.read_sql_query(sql_query, self.connection)
+            return df
+        except Error as e:
+            print(e)
+            exit(1)
+
+    def vacuum(self):
+        self.cursor.execute("VACUUM")
+        self.connection.commit()
+
 
