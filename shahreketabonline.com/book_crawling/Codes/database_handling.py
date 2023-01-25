@@ -31,7 +31,7 @@ class DatabaseHandling:
                     'url' text PRIMARY KEY,
                     'name' text,
                     'image_link' text,
-                    'page_number' text,
+                    'page_number' INTEGER,
                     'updated_at' INTEGER
                     );"""
         self.cursor.execute(sql_query)
@@ -48,12 +48,13 @@ class DatabaseHandling:
             self.connection.commit()
 
     def get_data(self, sql_query):
+        df = pd.DataFrame()
         try:
             df = pd.read_sql_query(sql_query, self.connection)
-            return df
         except Error as e:
             print(e)
-            exit(1)
+        finally:
+            return df
 
     def vacuum(self):
         self.cursor.execute("VACUUM")

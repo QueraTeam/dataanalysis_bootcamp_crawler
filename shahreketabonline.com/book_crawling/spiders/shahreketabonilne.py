@@ -38,8 +38,11 @@ def get_start_urls() -> list:
 	"""
 
     df = database_handler.get_data(sql_query)
-    df = df.astype({"page_number": "int"}).copy()
-    database_page = df["page_number"].tolist()
+    if len(df):
+        df = df.astype({"page_number": "int"}).copy()
+        database_page = df["page_number"].tolist()
+    else:
+        database_page = []
 
     new_page = list(filter(lambda x: x not in database_page, all_page))
 

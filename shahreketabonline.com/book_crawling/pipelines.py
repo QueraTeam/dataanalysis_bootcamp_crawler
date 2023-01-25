@@ -41,7 +41,6 @@ class BookCrawlingPipelineInfo:
         df = df[df["name"] != ""]
         df = df[df["url"] != ""]
         df.drop_duplicates(subset=["url"], inplace=True)
-        df = df.astype({"page_number": "str"}).copy()
 
         # 2_get data from database
         df_database = database_handler.get_all_data("product_info")
