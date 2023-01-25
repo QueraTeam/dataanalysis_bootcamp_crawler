@@ -70,7 +70,7 @@ class ShahreketabonilneSpider(scrapy.Spider):
     base_headers = {
         "user-agent": """Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36""",
         "x-requested-with": "XMLHttpRequest"
-    }
+        }
 
     base_url = "https://shahreketabonline.com"
     count = 0
@@ -124,3 +124,8 @@ class ShahreketabonilneSpider(scrapy.Spider):
 
             next_page_url = self.pure_url.format(next_page)
             yield scrapy.Request(next_page_url, callback=self.parse_product, headers=self.base_headers)"""
+
+
+
+
+
