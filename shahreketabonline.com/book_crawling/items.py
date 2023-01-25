@@ -11,3 +11,6 @@ class ProductInfo(scrapy.Item):
     # name = scrapy.Field()
     name = scrapy.Field()
     url = scrapy.Field()
+    image_link = scrapy.Field()
+    page_number = scrapy.Field()
+    updated_at = scrapy.Field()
