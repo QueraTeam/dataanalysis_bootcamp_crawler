@@ -1,1 +1,1 @@
-Scraping data from steam store.
+Scraping games and their details from steam store.
