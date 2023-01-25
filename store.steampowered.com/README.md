@@ -1,0 +1,1 @@
+Scraping games and their details from steam store.
