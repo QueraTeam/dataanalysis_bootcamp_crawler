@@ -61,6 +61,32 @@ else:
 # %%
 df = pd.merge(df_ , df , how='outer' , on=["لینک" , "عنوان" , "قیمت" , "مکان"])
 df.reset_index(inplace=True)
+# %%
+df_old = pd.read_csv("data.csv")
+df_old
+
+# %%
+def moghayese_2_df(df , df_old):
+    for i in range(24):
+        if df.loc[i]["لینک"] == df_old.loc[0]["لینک"]:
+            return df[0:i]
+    
+df_jadid = moghayese_2_df(df, df_old)
+df_jadid
+# %%
+df_jadid
+# %%
+for j in range(len(df_jadid)):
+    i = df_jadid.loc[j]
+    print(i)
+    matn = i["عنوان"]+\
+        " به قیمت "+\
+        i["قیمت"]+\
+        "توی "+\
+        i["مکان"]+" تازه اومده."
+    
+    send_to_bale(matn)
+# %%
 df.to_csv("data.csv" , index=False)
 
 # %%
