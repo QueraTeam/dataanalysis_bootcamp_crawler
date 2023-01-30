@@ -1,0 +1,1283 @@
+name,year,director,rate,runtime,certificate,genre,gross
+The Godfather,1972,Francis Ford Coppola,9.2,175 min,R,"Crime, Drama",134.97
+The Dark Knight,2008,Christopher Nolan,9,152 min,PG-13,"Action, Crime, Drama",534.86
+The Godfather: Part II,1974,Francis Ford Coppola,9,202 min,R,"Crime, Drama",57.3
+12 Angry Men,1957,Sidney Lumet,9,96 min,Approved,"Crime, Drama",4.36
+Mirror Game,2016,Amitabh Reza Chowdhury,9,147 min,,"Crime, Mystery, Thriller",27.271
+Pulp Fiction,1994,Quentin Tarantino,8.9,154 min,R,"Crime, Drama",107.93
+Jai Bhim,2021,T.J. Gnanavel,8.8,164 min,TV-MA,"Crime, Drama, Mystery",203.341
+Goodfellas,1990,Martin Scorsese,8.7,145 min,R,"Biography, Crime, Drama",46.84
+Se7en,1995,David Fincher,8.6,127 min,R,"Crime, Drama, Mystery",100.13
+The Green Mile,1999,Frank Darabont,8.6,189 min,R,"Crime, Drama, Fantasy",136.8
+The Silence of the Lambs,1991,Jonathan Demme,8.6,118 min,R,"Crime, Drama, Thriller",130.74
+City of God,2002,Fernando Meirelles,8.6,130 min,R,"Crime, Drama",7.56
+The Departed,2006,Martin Scorsese,8.5,151 min,R,"Crime, Drama, Thriller",132.38
+Léon: The Professional,1994,Luc Besson,8.5,110 min,R,"Action, Crime, Drama",19.5
+The Usual Suspects,1995,Bryan Singer,8.5,106 min,R,"Crime, Drama, Mystery",23.34
+American History X,1998,Tony Kaye,8.5,119 min,R,"Crime, Drama",6.72
+Kaithi,2019,Lokesh Kanagaraj,8.5,145 min,Not Rated,"Action, Adventure, Crime",33.605
+Drishyam 2,2022,Abhishek Pathak,8.4,140 min,18,"Crime, Drama, Mystery",27.889
+Joker,2019,Todd Phillips,8.4,122 min,R,"Crime, Drama, Thriller",335.45
+Witness for the Prosecution,1957,Billy Wilder,8.4,116 min,Approved,"Crime, Drama, Mystery",8.18
+Drishyam 2,2021,Jeethu Joseph,8.4,152 min,,"Crime, Drama, Thriller",38.184
+High and Low,1963,Akira Kurosawa,8.4,143 min,Not Rated,"Crime, Drama, Mystery",46.087
+Sardar Udham,2021,Shoojit Sircar,8.4,164 min,TV-MA,"Biography, Crime, Drama",43.062
+Heat,1995,Michael Mann,8.3,170 min,R,"Action, Crime, Drama",67.44
+Reservoir Dogs,1992,Quentin Tarantino,8.3,99 min,R,"Crime, Thriller",2.83
+The Sting,1973,George Roy Hill,8.3,129 min,PG,"Comedy, Crime, Drama",159.6
+Scarface,1983,Brian De Palma,8.3,170 min,R,"Crime, Drama",45.6
+A Clockwork Orange,1971,Stanley Kubrick,8.3,136 min,R,"Crime, Sci-Fi",6.21
+Once Upon a Time in America,1984,Sergio Leone,8.3,229 min,R,"Crime, Drama",5.32
+To Kill a Mockingbird,1962,Robert Mulligan,8.3,129 min,Approved,"Crime, Drama",318.791
+M,1931,Fritz Lang,8.3,99 min,Passed,"Crime, Mystery, Thriller",0.03
+Vikram,2022,Lokesh Kanagaraj,8.3,175 min,,"Action, Crime, Thriller",60.186
+K.G.F: Chapter 2,2022,Prashanth Neel,8.3,168 min,Not Rated,"Action, Crime, Drama",135.216
+Double Indemnity,1944,Billy Wilder,8.3,107 min,Passed,"Crime, Drama, Film-Noir",5.72
+Drishyam,2013,Jeethu Joseph,8.3,160 min,Not Rated,"Crime, Drama, Thriller",42.125
+Raatchasan,2018,Ram Kumar,8.3,170 min,Not Rated,"Action, Crime, Drama",45.649
+The Wolf of Wall Street,2013,Martin Scorsese,8.2,180 min,R,"Biography, Comedy, Crime",116.9
+No Country for Old Men,2007,Ethan Coen,8.2,122 min,R,"Crime, Drama, Thriller",74.28
+Taxi Driver,1976,Martin Scorsese,8.2,114 min,R,"Crime, Drama",28.26
+Snatch,2000,Guy Ritchie,8.2,102 min,R,"Comedy, Crime",30.33
+Batman Begins,2005,Christopher Nolan,8.2,140 min,PG-13,"Action, Crime, Drama",206.85
+Kill Bill: Vol. 1,2003,Quentin Tarantino,8.2,111 min,R,"Action, Crime, Drama",70.1
+Casino,1995,Martin Scorsese,8.2,178 min,R,"Crime, Drama",42.44
+"Lock, Stock and Two Smoking Barrels",1998,Guy Ritchie,8.2,107 min,R,"Action, Comedy, Crime",3.9
+L.A. Confidential,1997,Curtis Hanson,8.2,138 min,R,"Crime, Drama, Mystery",64.62
+Drishyam,2015,Nishikant Kamat,8.2,163 min,Not Rated,"Crime, Drama, Mystery",0.74
+Rashomon,1950,Akira Kurosawa,8.2,88 min,Not Rated,"Crime, Drama, Mystery",0.1
+Dial M for Murder,1954,Alfred Hitchcock,8.2,105 min,PG,"Crime, Thriller",0.01
+Gangs of Wasseypur,2012,Anurag Kashyap,8.2,321 min,Not Rated,"Action, Comedy, Crime",97.48
+Andhadhun,2018,Sriram Raghavan,8.2,139 min,Not Rated,"Comedy, Crime, Music",1.37
+Z,1969,Costa-Gavras,8.2,127 min,M/PG,"Crime, Drama, Thriller",0.08
+K.G.F: Chapter 1,2018,Prashanth Neel,8.2,156 min,Not Rated,"Action, Crime, Drama",88.576
+Vikram Vedha,2017,Gayatri,8.2,147 min,Not Rated,"Action, Crime, Drama",46.218
+Paan Singh Tomar,2012,Tigmanshu Dhulia,8.2,135 min,Not Rated,"Action, Biography, Crime",0.04
+Prisoners,2013,Denis Villeneuve,8.1,153 min,R,"Crime, Drama, Mystery",61
+The Grand Budapest Hotel,2014,Wes Anderson,8.1,99 min,R,"Adventure, Comedy, Crime",59.1
+"Three Billboards Outside Ebbing, Missouri",2017,Martin McDonagh,8.1,115 min,R,"Comedy, Crime, Drama",54.51
+The Big Lebowski,1998,Joel Coen,8.1,117 min,R,"Comedy, Crime",17.5
+Catch Me If You Can,2002,Steven Spielberg,8.1,141 min,PG-13,"Biography, Crime, Drama",164.62
+Fargo,1996,Joel Coen,8.1,98 min,R,"Crime, Thriller",24.61
+Spotlight,2019,Tom McCarthy,8.1,129 min,R,"Biography, Crime, Drama",45.06
+Memories of Murder,2003,Bong Joon Ho,8.1,132 min,Not Rated,"Crime, Drama, Mystery",0.01
+La haine,1995,Mathieu Kassovitz,8.1,98 min,Not Rated,"Crime, Drama",0.31
+Cool Hand Luke,1967,Stuart Rosenberg,8.1,127 min,GP,"Crime, Drama",16.22
+White Heat,1949,Raoul Walsh,8.1,90 min,Not Rated,"Action, Crime, Drama",33.644
+In the Name of the Father,1993,Jim Sheridan,8.1,133 min,R,"Biography, Crime, Drama",25.01
+On the Waterfront,1954,Elia Kazan,8.1,108 min,Approved,"Crime, Drama, Thriller",9.6
+Paper Moon,1973,Peter Bogdanovich,8.1,102 min,PG,"Comedy, Crime, Drama",30.93
+The 400 Blows,1959,François Truffaut,8.1,99 min,Not Rated,"Crime, Drama",119.693
+Diabolique,1955,Henri-Georges Clouzot,8.1,117 min,Not Rated,"Crime, Drama, Horror",1.09
+Time of the Gypsies,1988,Emir Kusturica,8.1,142 min,R,"Comedy, Crime, Drama",0.28
+Rang De Basanti - Die Farbe Safran,2006,Rakeysh Omprakash Mehra,8.1,167 min,Not Rated,"Comedy, Crime, Drama",2.2
+Rififi,1955,Jules Dassin,8.1,118 min,Not Rated,"Crime, Drama, Thriller",0.06
+Pink,2016,Aniruddha Roy Chowdhury,8.1,136 min,Not Rated,"Crime, Drama, Thriller",1.24
+Article 15,2019,Anubhav Sinha,8.1,130 min,Not Rated,"Crime, Drama, Mystery",34.392
+Talvar,2015,Meghna Gulzar,8.1,132 min,Not Rated,"Crime, Drama, Mystery",0.34
+A Wednesday,2008,Neeraj Pandey,8.1,104 min,Not Rated,"Action, Crime, Drama",79.435
+The Bandit,1996,Yavuz Turgul,8.1,128 min,Not Rated,"Crime, Drama, Thriller",70.529
+Hera Pheri,2000,Priyadarshan,8.1,156 min,Not Rated,"Action, Comedy, Crime",68.019
+Sin City,2005,Frank Miller,8,124 min,R,"Crime, Thriller",74.1
+Zootopia,2016,Byron Howard,8,108 min,PG,"Animation, Adventure, Comedy",341.27
+The Invisible Guest,2016,Oriol Paulo,8,106 min,TV-MA,"Crime, Drama, Mystery",178.658
+Slumdog Millionaire,2008,Danny Boyle,8,120 min,R,"Crime, Drama, Romance",141.32
+Perfect Blue,1997,Satoshi Kon,8,81 min,R,"Animation, Adult, Crime",0.78
+Kill Bill: Vol. 2,2004,Quentin Tarantino,8,137 min,R,"Action, Crime, Thriller",66.21
+Butch Cassidy and the Sundance Kid,1969,George Roy Hill,8,110 min,PG,"Biography, Crime, Drama",102.31
+Dog Day Afternoon,1975,Sidney Lumet,8,125 min,R,"Biography, Crime, Drama",50
+Dogville,2003,Lars von Trier,8,178 min,R,"Crime, Drama",1.53
+Chungking Express,1994,Kar-Wai Wong,8,102 min,PG-13,"Comedy, Crime, Drama",0.6
+Papillon,1973,Franklin J. Schaffner,8,151 min,R,"Biography, Crime, Drama",53.27
+Infernal Affairs,2002,Andrew Lau,8,101 min,R,"Action, Crime, Drama",0.17
+The Maltese Falcon,1941,John Huston,8,100 min,Passed,"Crime, Film-Noir, Mystery",2.11
+The Night of the Hunter,1955,Charles Laughton,8,92 min,Not Rated,"Crime, Drama, Film-Noir",0.65
+Elite Squad,2007,José Padilha,8,115 min,R,"Action, Crime, Drama",0.01
+Touch of Evil,1958,Orson Welles,8,95 min,PG-13,"Crime, Drama, Film-Noir",2.24
+The Killing,1956,Stanley Kubrick,8,84 min,Approved,"Crime, Drama, Film-Noir",91.17
+Le Samouraï,1967,Jean-Pierre Melville,8,101 min,GP,"Crime, Drama",0.04
+Out of the Past,1947,Jacques Tourneur,8,97 min,Not Rated,"Crime, Drama, Film-Noir",38.206
+"Black Cat, White Cat",1998,Emir Kusturica,8,127 min,R,"Comedy, Crime, Romance",0.35
+Elite Squad 2: The Enemy Within,2010,José Padilha,8,115 min,Not Rated,"Crime, Drama, Thriller",0.1
+Haider,2014,Vishal Bhardwaj,8,160 min,Not Rated,"Action, Crime, Drama",0.9
+Kind Hearts and Coronets,1949,Robert Hamer,8,106 min,Not Rated,"Comedy, Crime",37.918
+Special 26,2013,Neeraj Pandey,8,144 min,Not Rated,"Crime, Drama, Thriller",1.08
+Knives Out,2019,Rian Johnson,7.9,130 min,PG-13,"Comedy, Crime, Drama",165.36
+The Blues Brothers,1980,John Landis,7.9,133 min,R,"Action, Adventure, Comedy",57.23
+In Bruges,2008,Martin McDonagh,7.9,107 min,R,"Comedy, Crime, Drama",7.76
+True Romance,1993,Tony Scott,7.9,119 min,R,"Crime, Drama, Romance",12.28
+Mystic River,2003,Clint Eastwood,7.9,138 min,R,"Crime, Drama, Mystery",90.14
+Fantastic Mr. Fox,2009,Wes Anderson,7.9,87 min,PG,"Animation, Adventure, Comedy",21
+Carlito's Way,1993,Brian De Palma,7.9,144 min,R,"Crime, Drama, Thriller",36.95
+Shoplifters,2018,Hirokazu Koreeda,7.9,121 min,R,"Crime, Drama, Thriller",3.31
+"Blood In, Blood Out",1993,Taylor Hackford,7.9,180 min,R,"Crime, Drama",4.5
+Ghost in the Shell,1995,Mamoru Oshii,7.9,83 min,TV-MA,"Animation, Action, Crime",0.52
+The Raid 2,2014,Gareth Evans,7.9,150 min,R,"Action, Crime, Thriller",2.63
+Rope,1948,Alfred Hitchcock,7.9,80 min,Approved,"Crime, Drama, Mystery",145.597
+Dancer in the Dark,2000,Lars von Trier,7.9,140 min,R,"Crime, Drama, Musical",4.18
+Once Were Warriors,1994,Lee Tamahori,7.9,102 min,R,"Crime, Drama",2.2
+Strangers on a Train,1951,Alfred Hitchcock,7.9,92 min,PG,"Crime, Drama, Film-Noir",7.63
+The Big Sleep,1946,Howard Hawks,7.9,114 min,Passed,"Crime, Film-Noir, Mystery",6.54
+In Cold Blood,1967,Richard Brooks,7.9,134 min,R,"Biography, Crime, Drama",27.187
+The Thin Man,1934,W.S. Van Dyke,7.9,91 min,TV-PG,"Comedy, Crime, Mystery",30.672
+Arsenic and Old Lace,1944,Frank Capra,7.9,118 min,Not Rated,"Comedy, Crime, Thriller",71.916
+3-Iron,2004,Kim Ki-duk,7.9,88 min,R,"Crime, Drama, Romance",0.24
+Nine Queens,2000,Fabián Bielinsky,7.9,114 min,R,"Crime, Drama, Thriller",1.22
+Mildred Pierce,1945,Michael Curtiz,7.9,111 min,Approved,"Crime, Drama, Film-Noir",26.524
+Le Cercle Rouge,1970,Jean-Pierre Melville,7.9,140 min,Not Rated,"Crime, Drama, Thriller",0.37
+Elevator to the Gallows,1958,Louis Malle,7.9,91 min,Not Rated,"Crime, Drama, Thriller",0.11
+The Big Heat,1953,Fritz Lang,7.9,89 min,Passed,"Crime, Film-Noir, Thriller",27.256
+Baby,2019,Neeraj Pandey,7.9,159 min,Not Rated,"Action, Crime, Thriller",58.324
+The Batman,2022,Matt Reeves,7.8,176 min,PG-13,"Action, Crime, Drama",660.53
+The Gentlemen,2019,Guy Ritchie,7.8,113 min,R,"Action, Comedy, Crime",36.47
+The Hateful Eight,2015,Quentin Tarantino,7.8,168 min,R,"Crime, Drama, Mystery",54.12
+The Irishman,2019,Martin Scorsese,7.8,209 min,R,"Biography, Crime, Drama",7
+Nightcrawler,2014,Dan Gilroy,7.8,117 min,R,"Crime, Drama, Thriller",32.38
+The Girl with the Dragon Tattoo,2011,David Fincher,7.8,158 min,R,"Crime, Drama, Mystery",102.52
+The Fugitive,1993,Andrew Davis,7.8,130 min,PG-13,"Action, Crime, Drama",183.88
+Crash,2016,Paul Haggis,7.8,112 min,R,"Crime, Drama, Thriller",54.58
+The Untouchables,1987,Brian De Palma,7.8,119 min,R,"Crime, Drama, Thriller",76.27
+Taken,(I) (2008),Pierre Morel,7.8,90 min,PG-13,"Action, Crime, Thriller",145
+I Saw the Devil,2010,Jee-woon Kim,7.8,144 min,Not Rated,"Action, Crime, Drama",0.13
+A Bronx Tale,1993,Robert De Niro,7.8,121 min,R,"Crime, Drama",17.27
+American Gangster,2007,Ridley Scott,7.8,157 min,R,"Biography, Crime, Drama",130.16
+Captain Phillips,2013,Paul Greengrass,7.8,134 min,PG-13,"Action, Biography, Crime",107.1
+Boyz n the Hood,1991,John Singleton,7.8,112 min,R,"Crime, Drama",57.5
+The Day of the Jackal,1973,Fred Zinnemann,7.8,143 min,PG,"Crime, Drama, Thriller",16.06
+The Girl with the Dragon Tattoo,2009,Niels Arden Oplev,7.8,152 min,R,"Crime, Drama, Mystery",10.1
+The King of Comedy,1982,Martin Scorsese,7.8,109 min,PG,"Comedy, Crime, Drama",2.5
+The Best Offer,2013,Giuseppe Tornatore,7.8,131 min,R,"Crime, Drama, Mystery",0.09
+Mississippi Burning,1988,Alan Parker,7.8,128 min,R,"Crime, Drama, Mystery",34.6
+Changeling,2008,Clint Eastwood,7.8,141 min,R,"Biography, Crime, Drama",35.74
+Gangubai Kathiawadi,2022,Sanjay Leela Bhansali,7.8,152 min,TV-MA,"Biography, Crime, Drama",56.499
+Gaslight,1944,George Cukor,7.8,114 min,Passed,"Crime, Drama, Mystery",30.302
+Mother,2009,Bong Joon Ho,7.8,129 min,R,"Crime, Drama, Mystery",0.55
+The Chaser,2008,Na Hong-jin,7.8,125 min,Not Rated,"Action, Crime, Drama",67.776
+Lilya 4-Ever,2002,Lukas Moodysson,7.8,109 min,R,"Crime, Drama",0.18
+Batman: Mask of the Phantasm,1993,Kevin Altieri,7.8,76 min,PG,"Animation, Action, Adventure",5.62
+A Prophet,2009,Jacques Audiard,7.8,155 min,R,"Crime, Drama",2.08
+Cowboy Bebop: The Movie,2001,Shin'ichirô Watanabe,7.8,115 min,TV-14,"Animation, Action, Crime",1
+Badla,2019,Sujoy Ghosh,7.8,118 min,Not Rated,"Crime, Drama, Mystery",1.86
+The Asphalt Jungle,1950,John Huston,7.8,112 min,Passed,"Crime, Drama, Film-Noir",27.955
+The Killer,1989,John Woo,7.8,111 min,R,"Action, Crime, Drama",49.062
+Once Upon a Time in Anatolia,2011,Nuri Bilge Ceylan,7.8,163 min,Not Rated,"Crime, Drama, Thriller",0.14
+Knockin' on Heaven's Door,1997,Thomas Jahn,7.8,87 min,Not Rated,"Action, Crime, Comedy",0
+Road to Perdition,2002,Sam Mendes,7.7,117 min,R,"Crime, Drama, Thriller",104.45
+Wind River,2017,Taylor Sheridan,7.7,107 min,R,"Crime, Drama, Mystery",33.8
+Zodiac,2007,David Fincher,7.7,157 min,R,"Crime, Drama, Mystery",33.08
+Primal Fear,1996,Gregory Hoblit,7.7,129 min,R,"Crime, Drama, Mystery",56.12
+Ocean's Eleven,2001,Steven Soderbergh,7.7,116 min,PG-13,"Crime, Thriller",183.42
+Blue Velvet,1986,David Lynch,7.7,120 min,R,"Crime, Drama, Mystery",8.55
+"O Brother, Where Art Thou?",2000,Joel Coen,7.7,107 min,PG-13,"Adventure, Comedy, Crime",45.51
+Training Day,2001,Antoine Fuqua,7.7,122 min,R,"Action, Crime, Drama",76.63
+Donnie Brasco,1997,Mike Newell,7.7,127 min,R,"Biography, Crime, Drama",41.91
+Lucky Number Slevin,2006,Paul McGuigan,7.7,110 min,R,"Crime, Drama, Thriller",22.49
+3:10 to Yuma,2007,James Mangold,7.7,122 min,R,"Action, Crime, Drama",53.61
+Who Framed Roger Rabbit,1988,Robert Zemeckis,7.7,104 min,PG,"Animation, Adventure, Comedy",156.45
+Man on Fire,2004,Tony Scott,7.7,146 min,R,"Action, Crime, Drama",77.91
+Glengarry Glen Ross,1992,James Foley,7.7,100 min,R,"Crime, Drama, Mystery",10.73
+Serpico,1973,Sidney Lumet,7.7,130 min,R,"Biography, Crime, Drama",29.8
+The French Connection,1971,William Friedkin,7.7,104 min,18+,"Action, Crime, Drama",15.63
+Dirty Harry,1971,Don Siegel,7.7,102 min,R,"Action, Crime, Thriller",35.9
+Bonnie and Clyde,1967,Arthur Penn,7.7,111 min,R,"Action, Biography, Crime",114.7
+This Is England,2006,Shane Meadows,7.7,101 min,Not Rated,"Crime, Drama",0.33
+Miller's Crossing,1990,Joel Coen,7.7,115 min,R,"Crime, Drama, Thriller",5.08
+Badlands,1973,Terrence Malick,7.7,94 min,PG,"Action, Crime, Drama",74.217
+Run Lola Run,1998,Tom Tykwer,7.7,80 min,R,"Action, Crime, Thriller",7.27
+Breathless,1960,Jean-Luc Godard,7.7,90 min,Not Rated,"Crime, Drama",0.34
+The Man from Nowhere,2010,Jeong-beom Lee,7.7,119 min,R,"Action, Crime, Drama",0.01
+Scarface,1932,Howard Hawks,7.7,93 min,PG,"Action, Crime, Drama",28.602
+Hard Boiled,1992,John Woo,7.7,128 min,R,"Action, Crime, Thriller",51.389
+Key Largo,1948,John Huston,7.7,100 min,Not Rated,"Action, Crime, Drama",41.731
+Adam's Apples,2005,Anders Thomas Jensen,7.7,94 min,R,"Comedy, Crime, Drama",0
+Down by Law,1986,Jim Jarmusch,7.7,107 min,R,"Comedy, Crime, Drama",1.44
+Fireworks,1997,Takeshi Kitano,7.7,103 min,16,"Crime, Drama, Romance",0.23
+Vera Drake,2004,Mike Leigh,7.7,125 min,R,"Crime, Drama",3.75
+Udta Punjab,2016,Abhishek Chaubey,7.7,148 min,Not Rated,"Action, Crime, Drama",31.076
+American Psycho,2000,Mary Harron,7.6,102 min,R,"Crime, Drama, Horror",15.07
+Sicario,2015,Denis Villeneuve,7.6,121 min,R,"Action, Crime, Drama",46.89
+Baby Driver,2017,Edgar Wright,7.6,113 min,R,"Action, Crime, Drama",107.83
+Minority Report,2002,Steven Spielberg,7.6,145 min,PG-13,"Action, Crime, Mystery",132.07
+Kick-Ass,2010,Matthew Vaughn,7.6,117 min,R,"Action, Comedy, Crime",48.07
+The Godfather: Part III,1990,Francis Ford Coppola,7.6,162 min,R,"Crime, Drama",66.67
+Hell or High Water,(II) (2016),David Mackenzie,7.6,102 min,R,"Crime, Drama, Thriller",26.86
+My Cousin Vinny,1992,Jonathan Lynn,7.6,120 min,R,"Comedy, Crime",52.93
+RoboCop,1987,Paul Verhoeven,7.6,102 min,R,"Action, Crime, Sci-Fi",53.42
+Inside Man,2006,Spike Lee,7.6,129 min,R,"Crime, Drama, Mystery",88.51
+The Naked Gun: From the Files of Police Squad!,1988,David Zucker,7.6,85 min,PG-13,"Comedy, Crime",78.76
+Gone Baby Gone,2007,Ben Affleck,7.6,114 min,R,"Crime, Drama, Mystery",20.3
+Traffic,2000,Steven Soderbergh,7.6,147 min,R,"Crime, Drama, Thriller",124.12
+West Side Story,1961,Jerome Robbins,7.6,153 min,Approved,"Crime, Drama, Musical",43.66
+Despicable Me,2010,Pierre Coffin,7.6,95 min,PG,"Animation, Adventure, Comedy",251.51
+Falling Down,1993,Joel Schumacher,7.6,113 min,R,"Action, Crime, Drama",40.9
+Eastern Promises,2007,David Cronenberg,7.6,100 min,R,"Crime, Drama, Thriller",17.11
+Lethal Weapon,1987,Richard Donner,7.6,109 min,R,"Action, Crime, Thriller",65.21
+The Raid: Redemption,2011,Gareth Evans,7.6,101 min,R,"Action, Crime, Thriller",4.11
+Lord of War,2005,Andrew Niccol,7.6,122 min,R,"Crime, Drama",24.15
+End of Watch,2012,David Ayer,7.6,109 min,R,"Action, Adventure, Crime",41
+Blood Simple,1984,Joel Coen,7.6,99 min,R,"Crime, Drama, Thriller",2.15
+Fallen Angels,1995,Kar-Wai Wong,7.6,96 min,Not Rated,"Comedy, Crime, Drama",41.947
+Freedom Writers,2007,Richard LaGravenese,7.6,123 min,PG-13,"Biography, Crime, Drama",36.61
+Escape from Alcatraz,1979,Don Siegel,7.6,112 min,PG,"Action, Biography, Crime",43
+The Taking of Pelham One Two Three,1974,Joseph Sargent,7.6,104 min,R,"Action, Crime, Thriller",2.49
+Just Mercy,2019,Destin Daniel Cretton,7.6,137 min,PG-13,"Biography, Crime, Drama",69.112
+After Hours,(I) (1985),Martin Scorsese,7.6,97 min,R,"Comedy, Crime, Drama",10.6
+21 Grams,2003,Alejandro G. Iñárritu,7.6,124 min,R,"Crime, Drama, Thriller",16.29
+Enter the Dragon,1973,Robert Clouse,7.6,102 min,R,"Action, Crime, Drama",25
+The Body,2012,Oriol Paulo,7.6,112 min,16,"Crime, Drama, Mystery",67.444
+Delicatessen,1991,Marc Caro,7.6,99 min,R,"Comedy, Crime",1.79
+The 39 Steps,1935,Alfred Hitchcock,7.6,86 min,Approved,"Crime, Mystery, Thriller",58.146
+Pushpa: The Rise - Part 1,2021,Sukumar,7.6,179 min,,"Action, Crime, Drama",76.988
+Victoria,(II) (2015),Sebastian Schipper,7.6,138 min,Not Rated,"Crime, Drama, Romance",59.665
+Leviathan,2014,Andrey Zvyagintsev,7.6,140 min,R,"Crime, Drama",1.09
+Dead Man's Shoes,2004,Shane Meadows,7.6,90 min,Not Rated,"Crime, Drama, Thriller",0.01
+Ludo,2020,Anurag Basu,7.6,150 min,TV-MA,"Action, Comedy, Crime",40.323
+The Ladykillers,1955,Alexander Mackendrick,7.6,91 min,Not Rated,"Comedy, Crime",29.792
+Celda 211,2009,Daniel Monzón,7.6,113 min,16,"Action, Crime, Drama",68.471
+Les Misérables,2019,Ladj Ly,7.6,104 min,R,"Crime, Drama, Thriller",25.718
+Baazigar,1993,Abbas Alibhai Burmawalla,7.6,175 min,Not Rated,"Crime, Drama, Musical",28.568
+Band of Outsiders,1964,Jean-Luc Godard,7.6,95 min,Not Rated,"Comedy, Crime, Drama",0.04
+Highway,(I) (2014),Imtiaz Ali,7.6,133 min,Not Rated,"Crime, Drama, Romance",0.53
+Control,2003,Nimród Antal,7.6,111 min,R,"Comedy, Crime, Drama",0.24
+Mortal World,2018,Ali Atay,7.6,107 min,,"Action, Comedy, Crime",27.524
+Sophie Scholl: The Final Days,2005,Marc Rothemund,7.6,120 min,Not Rated,"Biography, Crime, Drama",0.68
+It's a Mad Mad Mad Mad World,1963,Stanley Kramer,7.5,210 min,G,"Action, Adventure, Comedy",46.3
+The Town,2010,Ben Affleck,7.5,125 min,R,"Crime, Drama, Thriller",92.19
+Promising Young Woman,2020,Emerald Fennell,7.5,113 min,R,"Crime, Drama, Mystery",177.133
+Gangs of New York,2002,Martin Scorsese,7.5,167 min,R,"Crime, Drama",77.81
+Sleepers,1996,Barry Levinson,7.5,147 min,R,"Crime, Drama, Thriller",49.1
+Collateral,2004,Michael Mann,7.5,120 min,R,"Action, Crime, Drama",101.01
+The Crow,1994,Alex Proyas,7.5,102 min,R,"Action, Crime, Drama",50.69
+BlacKkKlansman,2018,Spike Lee,7.5,135 min,R,"Biography, Comedy, Crime",49.28
+The Assassination of Jesse James by the Coward Robert Ford,2007,Andrew Dominik,7.5,160 min,R,"Biography, Crime, Drama",3.9
+The Warriors,1979,Walter Hill,7.5,93 min,R,"Action, Crime, Thriller",22.49
+Thelma & Louise,1991,Ridley Scott,7.5,130 min,R,"Adventure, Crime, Drama",45.36
+Jackie Brown,1997,Quentin Tarantino,7.5,154 min,R,"Crime, Drama, Thriller",39.67
+A Time to Kill,1996,Joel Schumacher,7.5,149 min,R,"Crime, Drama, Thriller",108.77
+Perfume: The Story of a Murderer,2006,Tom Tykwer,7.5,147 min,R,"Crime, Drama, Fantasy",2.22
+Lolita,1962,Stanley Kubrick,7.5,153 min,Not Rated,"Crime, Drama, Romance",9.25
+The Hate U Give,2018,George Tillman Jr.,7.5,133 min,PG-13,"Crime, Drama",29.72
+Richard Jewell,2019,Clint Eastwood,7.5,131 min,R,"Biography, Crime, Drama",89.446
+Kiss Kiss Bang Bang,2005,Shane Black,7.5,103 min,R,"Comedy, Crime, Mystery",4.24
+Blow,2001,Ted Demme,7.5,124 min,R,"Biography, Crime, Drama",52.99
+A Fish Called Wanda,1988,Charles Crichton,7.5,108 min,R,"Comedy, Crime",63.49
+Midnight Express,1978,Alan Parker,7.5,121 min,R,"Biography, Crime, Drama",35
+Funny Games,1997,Michael Haneke,7.5,108 min,Not Rated,"Crime, Drama, Thriller",76.834
+"The Cook, the Thief, His Wife & Her Lover",1989,Peter Greenaway,7.5,124 min,NC-17,"Crime, Drama",7.72
+Boys Don't Cry,1999,Kimberly Peirce,7.5,118 min,R,"Biography, Crime, Drama",11.53
+A Simple Plan,1998,Sam Raimi,7.5,121 min,R,"Crime, Drama, Thriller",16.31
+Menace II Society,1993,Albert Hughes,7.5,97 min,R,"Crime, Drama, Thriller",27.9
+Midnight Run,1988,Martin Brest,7.5,126 min,R,"Action, Comedy, Crime",38.41
+Lady Vengeance,2005,Park Chan-wook,7.5,115 min,R,"Crime, Drama, Thriller",0.21
+Fruitvale Station,2013,Ryan Coogler,7.5,85 min,R,"Biography, Crime, Drama",16.1
+The Life of David Gale,2003,Alan Parker,7.5,130 min,R,"Crime, Drama, Thriller",19.59
+Sympathy for Mr. Vengeance,2002,Park Chan-wook,7.5,129 min,R,"Crime, Drama, Thriller",0.05
+The Long Goodbye,1973,Robert Altman,7.5,112 min,R,"Comedy, Crime, Drama",0.96
+The Guilty,2018,Gustav Möller,7.5,85 min,R,"Crime, Drama, Thriller",0.21
+Following,1998,Christopher Nolan,7.5,69 min,R,"Crime, Mystery, Thriller",0.05
+The Player,1992,Robert Altman,7.5,124 min,R,"Comedy, Crime, Drama",21.71
+Who Am I,2014,Baran bo Odar,7.5,102 min,Not Rated,"Crime, Drama, Mystery",58.65
+Dead Man Walking,1995,Tim Robbins,7.5,122 min,R,"Crime, Drama",39.39
+Hunger,2008,Steve McQueen,7.5,96 min,Not Rated,"Biography, Crime, Drama",0.15
+A Perfect World,1993,Clint Eastwood,7.5,138 min,PG-13,"Crime, Drama, Thriller",31.16
+Headhunters,2011,Morten Tyldum,7.5,100 min,R,"Action, Crime, Thriller",1.2
+Ghost Dog: The Way of the Samurai,1999,Jim Jarmusch,7.5,116 min,R,"Crime, Drama",3.31
+The Man Who Wasn't There,2001,Joel Coen,7.5,116 min,R,"Crime, Drama",7.49
+Tell No One,2006,Guillaume Canet,7.5,131 min,Not Rated,"Crime, Drama, Mystery",6.18
+Police Story,1985,Jackie Chan,7.5,100 min,PG-13,"Action, Comedy, Crime",0.11
+House of Sand and Fog,2003,Vadim Perelman,7.5,126 min,R,"Crime, Drama",13.01
+Death Note,2006,Shûsuke Kaneko,7.5,126 min,Not Rated,"Crime, Drama, Fantasy",30.838
+Pierrot le Fou,1965,Jean-Luc Godard,7.5,110 min,Not Rated,"Crime, Drama, Romance",34.711
+How to Steal a Million,1966,William Wyler,7.5,123 min,Approved,"Comedy, Crime, Romance",28.26
+Mesrine: Killer Instinct,2008,Jean-François Richet,7.5,113 min,R,"Action, Biography, Crime",0.55
+A Bittersweet Life,2005,Jee-woon Kim,7.5,119 min,Not Rated,"Action, Crime, Drama",40.933
+Sin Nombre,2009,Cary Joji Fukunaga,7.5,96 min,R,"Adventure, Crime, Drama",2.53
+The Lady from Shanghai,1947,Orson Welles,7.5,81 min,Not Rated,"Crime, Drama, Film-Noir",0.01
+Mystery Train,1989,Jim Jarmusch,7.5,110 min,R,"Comedy, Crime, Drama",0.37
+Delhi Belly,2011,Abhinay Deo,7.5,103 min,Not Rated,"Action, Comedy, Crime",1.53
+The Blind Swordsman: Zatoichi,2003,Takeshi Kitano,7.5,116 min,R,"Action, Comedy, Crime",0.85
+The Counterfeiters,2007,Stefan Ruzowitzky,7.5,99 min,R,"Crime, Drama, History",5.48
+The Barbarian Invasions,2003,Denys Arcand,7.5,99 min,R,"Comedy, Crime, Drama",3.43
+To Strike,2013,Bilal Lashari,7.5,130 min,,"Action, Crime, Drama",29.881
+John Wick,2014,Chad Stahelski,7.4,101 min,R,"Action, Crime, Thriller",43.04
+Nobody,(I) (2021),Ilya Naishuller,7.4,92 min,R,"Action, Crime, Drama",27.27
+John Wick: Chapter 3 - Parabellum,2019,Chad Stahelski,7.4,130 min,R,"Action, Crime, Thriller",171.02
+John Wick: Chapter 2,2017,Chad Stahelski,7.4,122 min,R,"Action, Crime, Thriller",92.03
+In the Bedroom,2001,Todd Field,7.4,131 min,R,"Crime, Drama",35.93
+Uncut Gems,2019,Benny Safdie,7.4,135 min,R,"Crime, Drama, Thriller",286.956
+Law Abiding Citizen,2009,F. Gary Gray,7.4,109 min,R,"Action, Crime, Drama",73.34
+Molly's Game,2017,Aaron Sorkin,7.4,140 min,R,"Biography, Crime, Drama",28.78
+The Judge,2014,David Dobkin,7.4,141 min,R,"Crime, Drama",47.12
+The Talented Mr. Ripley,1999,Anthony Minghella,7.4,139 min,R,"Crime, Drama, Thriller",81.3
+Body Heat,1981,Lawrence Kasdan,7.4,113 min,R,"Crime, Drama, Romance",24.06
+A History of Violence,2005,David Cronenberg,7.4,96 min,R,"Action, Crime, Drama",31.49
+Dirty Rotten Scoundrels,1988,Frank Oz,7.4,110 min,PG,"Comedy, Crime",42.04
+Calvary,2014,John Michael McDonagh,7.4,102 min,R,"Crime, Drama, Mystery",3.59
+Bullitt,1968,Peter Yates,7.4,114 min,M/PG,"Action, Crime, Thriller",42.3
+Felon,2008,Ric Roman Waugh,7.4,104 min,R,"Crime, Thriller",0.04
+Marathon Man,1976,John Schlesinger,7.4,125 min,R,"Crime, Drama, Thriller",21.71
+Green Street Hooligans,2005,Lexi Alexander,7.4,109 min,R,"Crime, Drama, Sport",0.34
+Notes on a Scandal,2006,Richard Eyre,7.4,92 min,R,"Crime, Drama, Romance",17.51
+Blow Out,1981,Brian De Palma,7.4,108 min,R,"Crime, Drama, Mystery",13.75
+Frequency,2000,Gregory Hoblit,7.4,118 min,PG-13,"Crime, Drama, Mystery",45.01
+Three Days of the Condor,1975,Sydney Pollack,7.4,117 min,R,"Crime, Mystery, Thriller",41.51
+Straw Dogs,1971,Sam Peckinpah,7.4,113 min,R,"Crime, Drama, Thriller",61.336
+Thief,1981,Michael Mann,7.4,123 min,R,"Action, Crime, Drama",11.49
+Dolores Claiborne,1995,Taylor Hackford,7.4,132 min,R,"Crime, Drama, Mystery",24.36
+And Justice for All,1979,Norman Jewison,7.4,119 min,R,"Crime, Drama, Thriller",35.835
+Man Bites Dog,1992,Rémy Belvaux,7.4,95 min,NC-17,"Comedy, Crime, Drama",0.21
+Les Misérables,1998,Bille August,7.4,134 min,PG-13,"Crime, Drama, Romance",14.1
+Bad Education,2004,Pedro Almodóvar,7.4,106 min,NC-17,"Crime, Drama",5.21
+Thesis,1996,Alejandro Amenábar,7.4,125 min,R,"Crime, Horror, Mystery",39.819
+Blindspotting,2018,Carlos López Estrada,7.4,95 min,R,"Comedy, Crime, Drama",4.33
+Bullets Over Broadway,1994,Woody Allen,7.4,98 min,R,"Comedy, Crime",13.38
+Mesrine: Public Enemy No. 1,2008,Jean-François Richet,7.4,133 min,R,"Action, Biography, Crime",0.28
+Maria Full of Grace,2004,Joshua Marston,7.4,101 min,R,"Crime, Drama",6.52
+Hunting Season,2010,Yavuz Turgul,7.4,140 min,,"Crime, Drama, Mystery",35.002
+Decision to Leave,2022,Park Chan-wook,7.3,139 min,16,"Crime, Drama, Mystery",27.859
+Irreversible,2002,Gaspar Noé,7.3,97 min,Not Rated,"Crime, Drama, Mystery",0.75
+The Nice Guys,2016,Shane Black,7.3,116 min,R,"Action, Comedy, Crime",36.26
+Face/Off,1997,John Woo,7.3,138 min,R,"Action, Crime, Sci-Fi",112.23
+El Camino: A Breaking Bad Movie,2019,Vince Gilligan,7.3,122 min,TV-MA,"Action, Crime, Drama",255.367
+Beverly Hills Cop,1984,Martin Brest,7.3,105 min,R,"Action, Comedy, Crime",234.76
+Cruella,2021,Craig Gillespie,7.3,134 min,PG-13,"Adventure, Comedy, Crime",86.1
+The Guard,2011,John Michael McDonagh,7.3,96 min,R,"Comedy, Crime, Thriller",5.36
+Rounders,1998,John Dahl,7.3,121 min,R,"Crime, Drama",22.91
+The Place Beyond the Pines,2012,Derek Cianfrance,7.3,140 min,R,"Crime, Drama, Thriller",21.38
+Southpaw,2015,Antoine Fuqua,7.3,124 min,R,"Action, Crime, Drama",52.42
+Cape Fear,1991,Martin Scorsese,7.3,128 min,R,"Crime, Thriller",79.1
+Layer Cake,2004,Matthew Vaughn,7.3,105 min,R,"Action, Crime, Drama",2.34
+Fast Five,2011,Justin Lin,7.3,130 min,PG-13,"Action, Crime, Thriller",209.84
+Monster,2003,Patty Jenkins,7.3,109 min,R,"Biography, Crime, Drama",34.47
+Good Time,2017,Benny Safdie,7.3,102 min,R,"Crime, Drama, Thriller",2.03
+The Basketball Diaries,1995,Scott Kalvert,7.3,102 min,R,"Biography, Crime, Drama",2.42
+Shot Caller,2017,Ric Roman Waugh,7.3,121 min,R,"Crime, Drama, Thriller",88.546
+The Lincoln Lawyer,2011,Brad Furman,7.3,118 min,R,"Crime, Drama, Mystery",58.01
+Megamind,2010,Tom McGrath,7.3,95 min,PG,"Animation, Action, Comedy",148.42
+Suspiria,1977,Dario Argento,7.3,92 min,R,"Crime, Horror",96.188
+Heavenly Creatures,1994,Peter Jackson,7.3,99 min,R,"Biography, Crime, Drama",3.05
+Wall Street,1987,Oliver Stone,7.3,126 min,R,"Crime, Drama",43.85
+Sexy Beast,2000,Jonathan Glazer,7.3,89 min,R,"Crime, Drama, Thriller",6.95
+Raising Arizona,1987,Joel Coen,7.3,94 min,PG-13,"Comedy, Crime",22.85
+Bound,1996,Lana Wachowski,7.3,109 min,R,"Crime, Thriller",3.8
+Before the Devil Knows You're Dead,2007,Sidney Lumet,7.3,117 min,R,"Crime, Drama, Thriller",7.08
+Animal Kingdom,2010,David Michôd,7.3,113 min,R,"Crime, Drama",1.04
+Official Secrets,2019,Gavin Hood,7.3,112 min,R,"Biography, Crime, Drama",0.4
+Despicable Me 2,2013,Pierre Coffin,7.3,98 min,PG,"Animation, Adventure, Comedy",368.06
+Shallow Grave,1994,Danny Boyle,7.3,89 min,R,"Crime, Thriller",2.88
+Pusher,1996,Nicolas Winding Refn,7.3,110 min,Not Rated,"Crime, Thriller",0
+Snowden,2016,Oliver Stone,7.3,134 min,R,"Biography, Crime, Drama",21.59
+Murder by Death,1976,Robert Moore,7.3,95 min,PG,"Comedy, Crime, Mystery",39.028
+Mr. Brooks,2007,Bruce A. Evans,7.3,120 min,R,"Crime, Drama, Thriller",28.48
+To Live and Die in L.A.,1985,William Friedkin,7.3,116 min,R,"Action, Crime, Drama",17.31
+Capote,2005,Bennett Miller,7.3,114 min,R,"Biography, Crime, Drama",28.75
+The Next Three Days,2010,Paul Haggis,7.3,133 min,PG-13,"Action, Crime, Drama",21.15
+Assault on Precinct 13,1976,John Carpenter,7.3,91 min,R,"Action, Crime, Thriller",51.721
+Patriots Day,2016,Peter Berg,7.3,133 min,R,"Action, Crime, Drama",31.89
+Four Lions,2010,Christopher Morris,7.3,97 min,R,"Comedy, Crime, Drama",0.3
+The Getaway,1972,Sam Peckinpah,7.3,123 min,PG,"Action, Crime, Thriller",36.73
+The Negotiator,1998,F. Gary Gray,7.3,140 min,R,"Action, Crime, Drama",44.48
+Grosse Pointe Blank,1997,George Armitage,7.3,107 min,R,"Action, Comedy, Crime",28.01
+Nikita,1990,Luc Besson,7.3,117 min,R,"Action, Crime, Drama",5.02
+Detroit,2017,Kathryn Bigelow,7.3,143 min,R,"Crime, Drama, History",16.79
+Drugstore Cowboy,1989,Gus Van Sant,7.3,101 min,R,"Crime, Drama",4.73
+Matchstick Men,2003,Ridley Scott,7.3,116 min,PG-13,"Comedy, Crime, Drama",36.91
+Hustle & Flow,2005,Craig Brewer,7.3,116 min,R,"Crime, Drama, Music",22.2
+Running Scared,2006,Wayne Kramer,7.3,122 min,R,"Action, Crime, Drama",6.86
+Get Carter,1971,Mike Hodges,7.3,112 min,R,"Action, Crime, Thriller",0.39
+Starred Up,2013,David Mackenzie,7.3,106 min,Not Rated,"Crime, Drama",0.03
+Master,2021,Lokesh Kanagaraj,7.3,179 min,Not Rated,"Action, Crime, Thriller",77.284
+The Proposition,2005,John Hillcoat,7.3,104 min,R,"Crime, Drama, Western",1.9
+The Girl Who Kicked the Hornet's Nest,2009,Daniel Alfredson,7.3,147 min,R,"Crime, Drama, Thriller",5.43
+Max Manus: Man of War,2008,Joachim Rønning,7.3,118 min,Not Rated,"Action, Biography, Crime",28.617
+The Stranger,1946,Orson Welles,7.3,95 min,Passed,"Crime, Drama, Film-Noir",27.049
+The Baader Meinhof Complex,2008,Uli Edel,7.3,150 min,R,"Action, Biography, Crime",0.48
+Dirty Pretty Things,2002,Stephen Frears,7.3,97 min,R,"Crime, Drama, Thriller",8.11
+The Three Burials of Melquiades Estrada,2005,Tommy Lee Jones,7.3,121 min,R,"Adventure, Crime, Drama",5.02
+Glass Onion,2022,Rian Johnson,7.2,139 min,PG-13,"Comedy, Crime, Drama",294.76
+American Hustle,2013,David O. Russell,7.2,138 min,R,"Crime, Drama",150.12
+Clue,1985,Jonathan Lynn,7.2,94 min,PG,"Comedy, Crime, Mystery",14.64
+From Dusk Till Dawn,1996,Robert Rodriguez,7.2,108 min,R,"Action, Crime, Horror",25.75
+The Equalizer,2014,Antoine Fuqua,7.2,132 min,R,"Action, Crime, Thriller",101.53
+21 Jump Street,2012,Phil Lord,7.2,109 min,R,"Action, Comedy, Crime",138.45
+DC League of Super-Pets,2022,Jared Stern,7.2,105 min,PG,"Animation, Action, Adventure",65.045
+West Side Story,2021,Steven Spielberg,7.2,156 min,PG-13,"Crime, Drama, Musical",84.962
+Strange Days,1995,Kathryn Bigelow,7.2,145 min,R,"Crime, Drama, Sci-Fi",7.92
+Point Break,1991,Kathryn Bigelow,7.2,122 min,R,"Action, Crime, Thriller",43.22
+Vanishing Point,1971,Richard C. Sarafian,7.2,99 min,R,"Action, Crime, Thriller",29.105
+Heathers,1988,Michael Lehmann,7.2,103 min,R,"Comedy, Crime",1.11
+Now You See Me,(I) (2013),Louis Leterrier,7.2,115 min,PG-13,"Crime, Mystery, Thriller",117.72
+Chicago,2002,Rob Marshall,7.2,113 min,PG-13,"Comedy, Crime, Musical",170.69
+Murder on the Orient Express,1974,Sidney Lumet,7.2,128 min,PG,"Crime, Drama, Mystery",0.07
+Red Dragon,2002,Brett Ratner,7.2,124 min,R,"Crime, Drama, Thriller",93.15
+RocknRolla,2008,Guy Ritchie,7.2,114 min,R,"Action, Crime, Thriller",5.69
+Death on the Nile,1978,John Guillermin,7.2,140 min,PG,"Crime, Drama, Mystery",36.009
+Manhunter,1986,Michael Mann,7.2,120 min,R,"Crime, Mystery, Thriller",8.62
+The Bank Job,2008,Roger Donaldson,7.2,111 min,R,"Crime, Drama, Thriller",30.06
+Natural Born Killers,1994,Oliver Stone,7.2,119 min,R,"Action, Crime, Drama",50.28
+Wild at Heart,1990,David Lynch,7.2,125 min,R,"Comedy, Crime, Drama",14.56
+Fracture,2007,Gregory Hoblit,7.2,113 min,R,"Crime, Drama, Thriller",39.02
+Papillon,(I) (2017),Michael Noer,7.2,117 min,R,"Adventure, Biography, Crime",2.34
+The Rainmaker,1997,Francis Ford Coppola,7.2,135 min,PG-13,"Crime, Drama, Thriller",45.86
+Brick,2005,Rian Johnson,7.2,110 min,R,"Crime, Drama, Mystery",2.06
+Lawless,2012,John Hillcoat,7.2,116 min,R,"Biography, Crime, Drama",37.4
+The Crying Game,1992,Neil Jordan,7.2,112 min,R,"Crime, Drama, Romance",62.55
+Ronin,1998,John Frankenheimer,7.2,122 min,R,"Action, Crime, Thriller",41.62
+Top Secret!,1984,Jim Abrahams,7.2,90 min,PG,"Comedy, Crime, Music",20.5
+Lethal Weapon 2,1989,Richard Donner,7.2,114 min,R,"Action, Crime, Thriller",147.25
+Dope,2015,Rick Famuyiwa,7.2,103 min,R,"Adventure, Comedy, Crime",17.47
+Go,1999,Doug Liman,7.2,102 min,R,"Comedy, Crime",16.84
+Silverado,1985,Lawrence Kasdan,7.2,133 min,PG-13,"Action, Crime, Drama",33.2
+Mean Streets,1973,Martin Scorsese,7.2,112 min,R,"Crime, Drama, Thriller",3.13
+Michael Clayton,2007,Tony Gilroy,7.2,119 min,R,"Crime, Drama, Mystery",49.03
+The Italian Job,1969,Peter Collinson,7.2,99 min,G,"Action, Comedy, Crime",47.185
+In the Valley of Elah,2007,Paul Haggis,7.2,121 min,R,"Crime, Drama, Mystery",6.78
+The Report,2019,Scott Z. Burns,7.2,119 min,R,"Biography, Crime, Drama",44.905
+The Ghost Writer,2010,Roman Polanski,7.2,128 min,PG-13,"Crime, Drama, Mystery",15.54
+In the Line of Fire,1993,Wolfgang Petersen,7.2,128 min,R,"Action, Crime, Drama",102.31
+Frailty,2001,Bill Paxton,7.2,100 min,R,"Crime, Drama, Thriller",13.1
+Harry Brown,2009,Daniel Barber,7.2,103 min,R,"Action, Crime, Drama",1.82
+The Way of the Dragon,1972,Bruce Lee,7.2,90 min,R,"Action, Adventure, Comedy",4.06
+'71,2014,Yann Demange,7.2,99 min,R,"Action, Crime, Drama",1.27
+An American Crime,2007,Tommy O'Haver,7.2,98 min,R,"Biography, Crime, Drama",35.318
+Magnum Force,1973,Ted Post,7.2,124 min,R,"Action, Crime, Mystery",4.56
+Arlington Road,1999,Mark Pellington,7.2,117 min,R,"Action, Crime, Drama",24.36
+Sleep Tight,2011,Jaume Balagueró,7.2,102 min,Not Rated,"Crime, Drama, Horror",43.713
+Hard Eight,1996,Paul Thomas Anderson,7.2,101 min,R,"Crime, Drama",0.22
+The Pink Panther Strikes Again,1976,Blake Edwards,7.2,103 min,PG,"Comedy, Crime",33.83
+Mean Creek,2004,Jacob Estes,7.2,90 min,R,"Crime, Drama",0.6
+Department Q: The Keeper of Lost Causes,2013,Mikkel Nørgaard,7.2,96 min,Not Rated,"Crime, Drama, Mystery",30.861
+Nothing But the Truth,(I) (2008),Rod Lurie,7.2,108 min,R,"Crime, Drama, Thriller",0
+Dogman,2018,Matteo Garrone,7.2,103 min,Not Rated,"Crime, Drama, Thriller",0.15
+Marshland,2014,Alberto Rodríguez,7.2,105 min,TV-MA,"Action, Crime, Mystery",34.486
+Conviction,(II) (2010),Tony Goldwyn,7.2,107 min,R,"Biography, Crime, Drama",6.78
+Talaash: The Answer Lies Within,2012,Reema Kagti,7.2,140 min,Not Rated,"Crime, Drama, Mystery",2.71
+Tsotsi,2005,Gavin Hood,7.2,94 min,R,"Crime, Drama",2.91
+Take the Money and Run,1969,Woody Allen,7.2,85 min,PG,"Comedy, Crime",0.72
+Holiday: A Soldier is Never Off Duty,2014,A.R. Murugadoss,7.2,160 min,Not Rated,"Action, Crime, Thriller",0.71
+The Outfit,2022,Graham Moore,7.1,105 min,R,"Crime, Drama, Mystery",45.829
+Wrath of Man,2021,Guy Ritchie,7.1,119 min,R,"Action, Crime, Thriller",181.545
+The Devil All the Time,2020,Antonio Campos,7.1,138 min,R,"Crime, Drama, Thriller",137.883
+American Made,2017,Doug Liman,7.1,115 min,R,"Action, Comedy, Crime",51.34
+Seven Psychopaths,2012,Martin McDonagh,7.1,110 min,R,"Comedy, Crime",15.02
+Side Effects,(I) (2013),Steven Soderbergh,7.1,106 min,R,"Crime, Drama, Mystery",32.17
+Furious 7,2015,James Wan,7.1,137 min,PG-13,"Action, Crime, Thriller",353.01
+Bad Times at the El Royale,2018,Drew Goddard,7.1,141 min,R,"Crime, Drama, Mystery",17.84
+Don't Breathe,2016,Fede Alvarez,7.1,88 min,R,"Crime, Horror, Thriller",89.22
+War Dogs,2016,Todd Phillips,7.1,114 min,R,"Biography, Comedy, Crime",43.03
+Runaway Jury,2003,Gary Fleder,7.1,127 min,PG-13,"Crime, Drama, Thriller",49.44
+Batman Returns,1992,Tim Burton,7.1,126 min,PG-13,"Action, Crime, Fantasy",162.83
+The Unforgivable,2021,Nora Fingscheidt,7.1,112 min,R,"Crime, Drama",111.15
+Desperado,1995,Robert Rodriguez,7.1,104 min,R,"Action, Crime, Thriller",25.63
+Dressed to Kill,1980,Brian De Palma,7.1,104 min,R,"Crime, Drama, Mystery",31.9
+Dredd,2012,Pete Travis,7.1,95 min,R,"Action, Crime, Sci-Fi",13.41
+The Call,2020,Chung-Hyun Lee,7.1,112 min,TV-MA,"Crime, Horror, Mystery",34.57
+Brawl in Cell Block 99,2017,S. Craig Zahler,7.1,132 min,Not Rated,"Action, Crime, Drama",68.753
+Deja Vu,2006,Tony Scott,7.1,126 min,PG-13,"Action, Crime, Sci-Fi",64.04
+The Accused,1988,Jonathan Kaplan,7.1,111 min,R,"Crime, Drama",32.07
+Phone Booth,2002,Joel Schumacher,7.1,81 min,R,"Crime, Thriller",46.57
+Gridiron Gang,2006,Phil Joanou,7.1,125 min,PG-13,"Biography, Crime, Drama",38.43
+No Way Out,1987,Roger Donaldson,7.1,114 min,R,"Action, Crime, Drama",35.51
+Elephant,2003,Gus Van Sant,7.1,81 min,R,"Crime, Drama, Thriller",1.23
+Sneakers,1992,Phil Alden Robinson,7.1,126 min,PG-13,"Comedy, Crime, Drama",51.43
+Bad Santa,2003,Terry Zwigoff,7.1,92 min,R,"Comedy, Crime, Drama",60.06
+Marnie,1964,Alfred Hitchcock,7.1,130 min,PG,"Crime, Drama, Mystery",7
+Rumble Fish,1983,Francis Ford Coppola,7.1,94 min,R,"Crime, Drama, Romance",2.49
+John Q,2002,Nick Cassavetes,7.1,116 min,PG-13,"Crime, Drama, Thriller",71.76
+Payback,(I) (1999),Brian Helgeland,7.1,100 min,R,"Action, Crime, Drama",81.53
+Bad Education,2019,Cory Finley,7.1,108 min,TV-MA,"Biography, Comedy, Crime",41.035
+Elle,2016,Paul Verhoeven,7.1,130 min,R,"Crime, Drama, Thriller",68.022
+Blue Ruin,2013,Jeremy Saulnier,7.1,90 min,R,"Crime, Drama, Thriller",0.26
+The White Tiger,2021,Ramin Bahrani,7.1,125 min,R,"Crime, Drama",61.318
+99 Homes,2014,Ramin Bahrani,7.1,112 min,R,"Crime, Drama",1.41
+Can You Ever Forgive Me?,2018,Marielle Heller,7.1,106 min,R,"Biography, Comedy, Crime",8.8
+Tangerine,2015,Sean Baker,7.1,88 min,R,"Comedy, Crime, Drama",0.7
+Ong-Bak: The Thai Warrior,2003,Prachya Pinkaew,7.1,105 min,R,"Action, Crime, Thriller",4.56
+Klute,1971,Alan J. Pakula,7.1,114 min,R,"Crime, Mystery, Thriller",17.44
+Casualties of War,1989,Brian De Palma,7.1,113 min,R,"Action, Crime, Drama",18.67
+The Girl Who Played with Fire,2009,Daniel Alfredson,7.1,129 min,R,"Action, Crime, Drama",9.08
+In the Fade,2017,Fatih Akin,7.1,106 min,R,"Crime, Drama, Thriller",0.32
+Queen & Slim,2019,Melina Matsoukas,7.1,132 min,R,"Crime, Drama, Romance",32.363
+State of Play,2009,Kevin Macdonald,7.1,127 min,PG-13,"Crime, Drama, Mystery",37.02
+Chopper,2000,Andrew Dominik,7.1,94 min,R,"Biography, Crime, Drama",0.23
+The Whistleblower,2010,Larysa Kondracki,7.1,112 min,R,"Biography, Crime, Drama",1.12
+District B13,2004,Pierre Morel,7.1,84 min,R,"Action, Crime, Sci-Fi",1.2
+In Order of Disappearance,2014,Hans Petter Moland,7.1,116 min,R,"Action, Comedy, Crime",0.05
+God Bless America,2011,Bobcat Goldthwait,7.1,105 min,R,"Action, Comedy, Crime",0.12
+Narc,2002,Joe Carnahan,7.1,105 min,R,"Crime, Drama, Mystery",10.46
+Vikrant Rona,2022,Anup Bhandari,7.1,148 min,Not Rated,"Action, Crime, Drama",27.259
+11:14,2003,Greg Marcks,7.1,86 min,R,"Comedy, Crime, Drama",48.396
+JCVD,2008,Mabrouk El Mechri,7.1,97 min,R,"Action, Comedy, Crime",0.47
+Don,(I) (2006),Farhan Akhtar,7.1,171 min,Not Rated,"Action, Crime, Thriller",0.8
+Micmacs,2009,Jean-Pierre Jeunet,7.1,105 min,R,"Action, Comedy, Crime",1.26
+Ruby & Quentin,2003,Francis Veber,7.1,85 min,Not Rated,"Comedy, Crime",29.454
+Frozen River,2008,Courtney Hunt,7.1,97 min,R,"Crime, Drama",2.51
+Dhamaka,2021,Ram Madhvani,7.1,103 min,TV-14,"Crime, Drama, Thriller",41.433
+Kaabil,2017,Sanjay Gupta,7.1,139 min,Not Rated,"Action, Crime, Drama",27.536
+Gabbar Is Back,2015,Radha Krishna Jagarlamudi,7.1,128 min,Not Rated,"Action, Crime, Drama",25.499
+The Unbearable Weight of Massive Talent,2022,Tom Gormican,7,107 min,R,"Action, Comedy, Crime",94.037
+The Outsiders,1983,Francis Ford Coppola,7,91 min,PG,"Crime, Drama",25.6
+We're the Millers,2013,Rawson Marshall Thurber,7,110 min,R,"Comedy, Crime",150.39
+Nightmare Alley,2021,Guillermo del Toro,7,150 min,R,"Crime, Drama, Thriller",146.607
+Sicario: Day of the Soldado,2018,Stefano Sollima,7,122 min,R,"Action, Crime, Drama",50.07
+Den of Thieves,2018,Christian Gudegast,7,140 min,R,"Action, Crime, Drama",44.95
+RED,2010,Robert Schwentke,7,111 min,PG-13,"Action, Comedy, Crime",90.38
+Logan Lucky,2017,Steven Soderbergh,7,118 min,PG-13,"Action, Comedy, Crime",27.78
+Green Room,2015,Jeremy Saulnier,7,95 min,R,"Crime, Drama, Horror",3.22
+The Italian Job,2003,F. Gary Gray,7,111 min,PG-13,"Action, Crime, Thriller",106.13
+Burn After Reading,2008,Ethan Coen,7,96 min,R,"Comedy, Crime, Drama",60.36
+The Drop,2014,Michaël R. Roskam,7,106 min,R,"Crime, Drama, Thriller",10.72
+22 Jump Street,2014,Phil Lord,7,112 min,R,"Action, Comedy, Crime",191.72
+The Last Boy Scout,1991,Tony Scott,7,105 min,R,"Action, Comedy, Crime",59.51
+Public Enemies,2009,Michael Mann,7,140 min,R,"Action, Biography, Crime",97.1
+Rush Hour,1998,Brett Ratner,7,98 min,PG-13,"Action, Comedy, Crime",141.15
+The Mule,2018,Clint Eastwood,7,116 min,R,"Crime, Drama, Thriller",103.8
+Out of Sight,1998,Steven Soderbergh,7,123 min,R,"Comedy, Crime, Drama",37.56
+Chip 'n Dale: Rescue Rangers,2022,Akiva Schaffer,7,97 min,PG,"Animation, Action, Adventure",41.473
+Fast & Furious 6,2013,Justin Lin,7,130 min,PG-13,"Action, Crime, Thriller",238.68
+Super Troopers,2001,Jay Chandrasekhar,7,100 min,R,"Comedy, Crime, Mystery",18.49
+The Pink Panther,1963,Blake Edwards,7,115 min,Approved,"Comedy, Crime, Romance",10.88
+Fallen,1998,Gregory Hoblit,7,124 min,R,"Action, Crime, Drama",25.19
+Soylent Green,1973,Richard Fleischer,7,97 min,PG,"Crime, Mystery, Sci-Fi",7.92
+Bronson,2008,Nicolas Winding Refn,7,92 min,R,"Action, Crime, Drama",0.1
+Border,2018,Ali Abbasi,7,110 min,R,"Crime, Drama, Fantasy",0.77
+Unleashed,2005,Louis Leterrier,7,103 min,R,"Action, Crime, Drama",24.52
+Big Eyes,(I) (2014),Tim Burton,7,106 min,PG-13,"Biography, Crime, Drama",14.48
+Cop Land,1997,James Mangold,7,105 min,R,"Crime, Drama, Thriller",44.89
+A Most Violent Year,2014,J.C. Chandor,7,125 min,R,"Action, Crime, Drama",5.74
+Filth,(I) (2013),Jon S. Baird,7,97 min,R,"Action, Comedy, Crime",0.03
+Boiler Room,2000,Ben Younger,7,120 min,R,"Crime, Drama, Thriller",16.94
+The Infiltrator,2016,Brad Furman,7,127 min,R,"Biography, Crime, Drama",15.43
+Breakdown,(I) (1997),Jonathan Mostow,7,93 min,R,"Crime, Drama, Mystery",50.13
+Spy Game,2001,Tony Scott,7,126 min,R,"Action, Crime, Thriller",0.03
+A Scanner Darkly,2006,Richard Linklater,7,100 min,R,"Animation, Comedy, Crime",5.5
+American Animals,2018,Bart Layton,7,116 min,R,"Biography, Crime, Drama",2.86
+Tie Me Up! Tie Me Down!,1989,Pedro Almodóvar,7,101 min,R,"Comedy, Crime, Drama",4.09
+The Return of the Pink Panther,1975,Blake Edwards,7,113 min,G,"Comedy, Crime, Mystery",41.83
+Bad Lieutenant,1992,Abel Ferrara,7,96 min,NC-17,"Crime, Drama, Thriller",2
+Ichi the Killer,2001,Takashi Miike,7,129 min,R,"Action, Crime, Drama",0.02
+Kill the Irishman,2011,Jonathan Hensleigh,7,106 min,R,"Biography, Crime, Drama",1.19
+Confessions of a Dangerous Mind,2002,George Clooney,7,113 min,R,"Biography, Comedy, Crime",16
+Juice,1992,Ernest R. Dickerson,7,95 min,R,"Action, Crime, Drama",20.15
+Taxi,(I) (1998),Gérard Pirès,7,86 min,Not Rated,"Action, Comedy, Crime",0.27
+Henry: Portrait of a Serial Killer,1986,John McNaughton,7,83 min,18+,"Biography, Crime, Drama",0.61
+Unthinkable,2010,Gregor Jordan,7,97 min,R,"Crime, Drama, Thriller",89.293
+8 Women,2002,François Ozon,7,111 min,R,"Comedy, Crime, Musical",3.08
+Thunderbolt and Lightfoot,1974,Michael Cimino,7,115 min,R,"Action, Comedy, Crime",25
+Breach,2007,Billy Ray,7,110 min,PG-13,"Biography, Crime, Drama",33.23
+Gomorrah,2008,Matteo Garrone,7,137 min,Not Rated,"Crime, Drama",1.58
+The Salton Sea,2002,D.J. Caruso,7,103 min,R,"Crime, Drama, Mystery",0.76
+Don 2,2011,Farhan Akhtar,7,148 min,Not Rated,"Action, Crime, Thriller",3.68
+The Protector,2005,Prachya Pinkaew,7,111 min,R,"Action, Crime, Drama",11.91
+Find Me Guilty,2006,Sidney Lumet,7,125 min,R,"Biography, Comedy, Crime",1.17
+The Lookout,2007,Scott Frank,7,99 min,R,"Crime, Drama, Thriller",4.6
+The Angels' Share,2012,Ken Loach,7,101 min,R,"Comedy, Crime, Drama",0.3
+Robot & Frank,2012,Jake Schreier,7,89 min,PG-13,"Comedy, Crime, Drama",3.33
+Heaven,(I) (2002),Tom Tykwer,7,97 min,R,"Crime, Drama, Romance",0.77
+Rustom,2016,Tinu Suresh Desai,7,148 min,Not Rated,"Crime, Drama, Thriller",1.09
+Legend,2019,Brian Helgeland,6.9,132 min,R,"Biography, Crime, Drama",1.87
+Fletch,1985,Michael Ritchie,6.9,98 min,PG,"Comedy, Crime, Mystery",50.61
+Horrible Bosses,2011,Seth Gordon,6.9,98 min,R,"Comedy, Crime",117.54
+Ocean's Thirteen,2007,Steven Soderbergh,6.9,122 min,PG-13,"Crime, Thriller",117.15
+Game Night,(I) (2018),John Francis Daley,6.9,100 min,R,"Action, Adventure, Comedy",69.18
+The Mask,1994,Chuck Russell,6.9,101 min,PG-13,"Action, Comedy, Crime",119.94
+Black Mass,2015,Scott Cooper,6.9,123 min,R,"Biography, Crime, Drama",62.58
+Con Air,1997,Simon West,6.9,115 min,R,"Action, Crime, Thriller",101.12
+I Don't Feel at Home in This World Anymore,2017,Macon Blair,6.9,93 min,TV-MA,"Comedy, Crime, Drama",59.467
+Pineapple Express,2008,David Gordon Green,6.9,111 min,R,"Action, Comedy, Crime",87.34
+The Hitman's Bodyguard,2017,Patrick Hughes,6.9,118 min,R,"Action, Comedy, Crime",75.47
+Crank,2006,Mark Neveldine,6.9,88 min,R,"Action, Crime, Thriller",27.83
+Clear and Present Danger,1994,Phillip Noyce,6.9,141 min,PG-13,"Action, Crime, Drama",122.19
+Adventures in Babysitting,1987,Chris Columbus,6.9,102 min,PG-13,"Adventure, Comedy, Crime",34.37
+The Highwaymen,2019,John Lee Hancock,6.9,132 min,R,"Biography, Crime, Drama",93.472
+Alpha Dog,2006,Nick Cassavetes,6.9,122 min,R,"Biography, Crime, Drama",15.23
+The Naked Gun 2½: The Smell of Fear,1991,David Zucker,6.9,85 min,PG-13,"Comedy, Crime",86.93
+48 Hrs.,1982,Walter Hill,6.9,96 min,R,"Action, Comedy, Crime",78.87
+Bully,2001,Larry Clark,6.9,108 min,R,"Biography, Crime, Drama",1.54
+The Thomas Crown Affair,1968,Norman Jewison,6.9,102 min,Approved,"Crime, Drama, Romance",25.953
+Bottle Rocket,1996,Wes Anderson,6.9,91 min,R,"Comedy, Crime, Drama",0.56
+Get Shorty,1995,Barry Sonnenfeld,6.9,105 min,R,"Comedy, Crime, Thriller",72.08
+King of New York,1990,Abel Ferrara,6.9,103 min,R,"Crime, Thriller",2.55
+Death Wish,1974,Michael Winner,6.9,93 min,R,"Action, Crime, Drama",22
+Repo Man,1984,Alex Cox,6.9,92 min,R,"Action, Comedy, Crime",3.57
+Everybody Knows,2018,Asghar Farhadi,6.9,133 min,R,"Crime, Drama, Mystery",2.66
+Trance,(I) (2013),Danny Boyle,6.9,101 min,R,"Crime, Drama, Mystery",2.32
+The Limey,1999,Steven Soderbergh,6.9,89 min,R,"Crime, Drama, Mystery",3.19
+Kill the Messenger,2014,Michael Cuesta,6.9,112 min,R,"Biography, Crime, Drama",2.45
+Frantic,1988,Roman Polanski,6.9,120 min,R,"Crime, Drama, Mystery",17.64
+Trust,(I) (2010),David Schwimmer,6.9,106 min,R,"Crime, Drama, Thriller",0.12
+Ruthless People,1986,Jim Abrahams,6.9,93 min,R,"Comedy, Crime",71.62
+The Crimson Rivers,2000,Mathieu Kassovitz,6.9,106 min,R,"Crime, Mystery, Thriller",0.63
+The Grifters,1990,Stephen Frears,6.9,110 min,R,"Crime, Drama, Thriller",13.45
+Traitor,2008,Jeffrey Nachmanoff,6.9,114 min,PG-13,"Action, Crime, Drama",23.53
+Haseen Dillruba,2021,Vinil Mathew,6.9,135 min,TV-MA,"Crime, Drama, Mystery",27.651
+The Big Boss,1971,Wei Lo,6.9,99 min,R,"Action, Crime, Drama",0.04
+A Guide to Recognizing Your Saints,2006,Dito Montiel,6.9,100 min,R,"Crime, Drama",0.52
+Suicide Kings,1997,Peter O'Fallon,6.9,106 min,R,"Comedy, Crime, Drama",1.69
+New Police Story,2004,Benny Chan,6.9,123 min,R,"Action, Crime, Thriller",27.62
+Alan Partridge,2013,Declan Lowney,6.9,90 min,R,"Action, Comedy, Crime",0.15
+The Conspirator,2010,Robert Redford,6.9,122 min,PG-13,"Crime, Drama, History",11.54
+The Ref,1994,Ted Demme,6.9,97 min,R,"Comedy, Crime, Drama",11.44
+Agneepath,2012,Karan Malhotra,6.9,174 min,Not Rated,"Action, Crime, Drama",1.98
+The Assassination of Richard Nixon,2004,Niels Mueller,6.9,95 min,R,"Biography, Crime, Drama",0.7
+The Good Nurse,2022,Tobias Lindholm,6.8,121 min,R,"Biography, Crime, Drama",57.887
+The Bad Guys,2022,Pierre Perifel,6.8,100 min,PG,"Animation, Adventure, Comedy",43.076
+The Fast and the Furious,2001,Rob Cohen,6.8,106 min,PG-13,"Action, Crime, Thriller",144.53
+The Pledge,(I) (2001),Sean Penn,6.8,124 min,R,"Crime, Drama, Mystery",19.72
+The House That Jack Built,2018,Lars von Trier,6.8,152 min,R,"Crime, Drama, Horror",0.09
+A Simple Favor,2018,Paul Feig,6.8,117 min,R,"Comedy, Crime, Mystery",53.55
+Bad Boys,1995,Michael Bay,6.8,119 min,R,"Action, Comedy, Crime",65.81
+What Happened to Monday,2017,Tommy Wirkola,6.8,123 min,TV-MA,"Action, Crime, Fantasy",125.491
+Hannibal,2001,Ridley Scott,6.8,131 min,R,"Crime, Drama, Thriller",165.09
+The Score,2001,Frank Oz,6.8,124 min,R,"Action, Crime, Drama",71.07
+Home Alone 2: Lost in New York,1992,Chris Columbus,6.8,120 min,PG,"Adventure, Comedy, Crime",173.59
+The Long Kiss Goodnight,1996,Renny Harlin,6.8,121 min,R,"Action, Crime, Drama",33.33
+Risky Business,1983,Paul Brickman,6.8,99 min,R,"Comedy, Crime, Drama",63.5
+The Dry,2020,Robert Connolly,6.8,117 min,R,"Crime, Drama, Mystery",27.974
+Widows,2018,Steve McQueen,6.8,129 min,R,"Crime, Drama, Thriller",42.4
+21,2008,Robert Luketic,6.8,123 min,PG-13,"Crime, Drama, History",81.16
+Body Double,1984,Brian De Palma,6.8,114 min,R,"Crime, Drama, Mystery",8.8
+The Transporter,2002,Louis Leterrier,6.8,92 min,PG-13,"Action, Crime, Thriller",25.3
+I See You,(II) (2019),Adam Randall,6.8,98 min,R,"Crime, Drama, Horror",51.047
+Bolt,2008,Byron Howard,6.8,96 min,PG,"Animation, Adventure, Comedy",114.05
+Four Brothers,2005,John Singleton,6.8,109 min,R,"Action, Crime, Drama",74.49
+Disturbia,2007,D.J. Caruso,6.8,105 min,PG-13,"Crime, Drama, Mystery",80.21
+Chappie,2015,Neill Blomkamp,6.8,120 min,R,"Action, Crime, Drama",31.57
+Panic Room,2002,David Fincher,6.8,112 min,R,"Crime, Drama, Thriller",96.4
+All the Money in the World,2017,Ridley Scott,6.8,132 min,R,"Biography, Crime, Drama",25.11
+Exam,2009,Stuart Hazeldine,6.8,101 min,Not Rated,"Crime, Horror, Mystery",117.882
+The Iceman,2012,Ariel Vromen,6.8,106 min,R,"Biography, Crime, Drama",1.94
+Motherless Brooklyn,2019,Edward Norton,6.8,144 min,R,"Crime, Drama, Mystery",58.747
+Escape from Pretoria,2020,Francis Annan,6.8,106 min,PG-13,"Biography, Crime, Mystery",38.634
+Street Kings,2008,David Ayer,6.8,109 min,R,"Action, Crime, Thriller",26.42
+The Thomas Crown Affair,1999,John McTiernan,6.8,113 min,R,"Crime, Romance, Thriller",69.3
+To Die For,1995,Gus Van Sant,6.8,106 min,R,"Comedy, Crime, Drama",21.28
+Freeway,1996,Matthew Bright,6.8,102 min,R,"Crime, Drama, Thriller",0.3
+El Mariachi,1992,Robert Rodriguez,6.8,81 min,R,"Action, Crime, Thriller",2.04
+Bernie,2011,Richard Linklater,6.8,104 min,PG-13,"Biography, Comedy, Crime",9.2
+"See No Evil, Hear No Evil",1989,Arthur Hiller,6.8,103 min,R,"Comedy, Crime",46.91
+Joe,(I) (2013),David Gordon Green,6.8,117 min,R,"Crime, Drama",0.37
+Harsh Times,2005,David Ayer,6.8,116 min,R,"Action, Crime, Drama",3.34
+Bugsy,1991,Barry Levinson,6.8,136 min,R,"Biography, Crime, Drama",49.11
+We Own the Night,2007,James Gray,6.8,117 min,R,"Action, Crime, Drama",28.56
+22-Jul,2018,Paul Greengrass,6.8,143 min,R,"Crime, Drama, History",34.87
+A Most Wanted Man,2014,Anton Corbijn,6.8,122 min,R,"Crime, Drama, Thriller",17.24
+The Secrets with the Family,1989,Harold Becker,6.8,113 min,R,"Crime, Drama, Mystery",58.57
+Serial Mom,1994,John Waters,6.8,95 min,R,"Comedy, Crime, Thriller",7.88
+Oliver Twist,2005,Roman Polanski,6.8,130 min,PG-13,"Crime, Drama",1.99
+House on Haunted Hill,1959,William Castle,6.8,75 min,Not Rated,"Crime, Horror, Mystery",28.414
+Romper Stomper,1992,Geoffrey Wright,6.8,94 min,R,"Crime, Drama, Thriller",0.18
+Dead Again,1991,Kenneth Branagh,6.8,107 min,R,"Crime, Drama, Mystery",38.02
+The East,2013,Zal Batmanglij,6.8,116 min,PG-13,"Crime, Drama, Thriller",2.27
+Middle Men,2009,George Gallo,6.8,105 min,R,"Comedy, Crime, Drama",0.72
+The Football Factory,2004,Nick Love,6.8,91 min,R,"Crime, Drama, Sport",31.156
+Millions,2004,Danny Boyle,6.8,98 min,PG,"Comedy, Crime, Drama",6.58
+Beavis and Butt-Head Do America,1996,Mike Judge,6.8,81 min,PG-13,"Animation, Adventure, Comedy",63.07
+Keeping Mum,2005,Niall Johnson,6.8,99 min,R,"Comedy, Crime",1.62
+The Pale Blue Eye,2022,Scott Cooper,6.7,128 min,R,"Crime, Horror, Mystery",65.354
+Violent Night,2022,Tommy Wirkola,6.7,112 min,R,"Action, Comedy, Crime",55.59
+Emily the Criminal,2022,John Patton Ford,6.7,97 min,R,"Crime, Drama, Thriller",32.145
+Enola Holmes 2,2022,Harry Bradbeer,6.7,129 min,PG-13,"Action, Adventure, Crime",73.72
+The Client,1994,Joel Schumacher,6.7,119 min,PG-13,"Crime, Drama, Mystery",92.12
+Life,(I) (1999),Ted Demme,6.7,108 min,R,"Comedy, Crime, Drama",63.84
+Kingsman: The Golden Circle,2017,Matthew Vaughn,6.7,141 min,R,"Action, Adventure, Comedy",100.23
+The Equalizer 2,2018,Antoine Fuqua,6.7,121 min,R,"Action, Crime, Thriller",102.08
+Let Him Go,2020,Thomas Bezucha,6.7,113 min,R,"Crime, Drama, Thriller",28.934
+Out of the Furnace,2013,Scott Cooper,6.7,116 min,R,"Action, Crime, Drama",11.33
+Wanted,2008,Timur Bekmambetov,6.7,110 min,R,"Action, Crime, Thriller",134.51
+You Were Never Really Here,2017,Lynne Ramsay,6.7,89 min,R,"Crime, Drama",2.52
+The Whole Nine Yards,2000,Jonathan Lynn,6.7,98 min,R,"Comedy, Crime",57.26
+"Extremely Wicked, Shockingly Evil and Vile",2019,Joe Berlinger,6.7,110 min,R,"Biography, Crime, Drama",96.108
+The Bone Collector,1999,Phillip Noyce,6.7,118 min,R,"Crime, Drama, Mystery",66.52
+The Good Liar,2019,Bill Condon,6.7,109 min,R,"Crime, Drama, Mystery",43.378
+Gangster Squad,2013,Ruben Fleischer,6.7,113 min,R,"Action, Crime, Drama",46
+Super,(I) (2010),James Gunn,6.7,96 min,R,"Action, Comedy, Crime",0.32
+The Devil's Rejects,2005,Rob Zombie,6.7,107 min,R,"Crime, Horror, Western",17.04
+Absolute Power,1997,Clint Eastwood,6.7,121 min,R,"Action, Crime, Drama",50.01
+Swimming Pool,2003,François Ozon,6.7,102 min,R,"Crime, Drama, Mystery",10.11
+Stir Crazy,1980,Sidney Poitier,6.7,111 min,R,"Comedy, Crime",101.3
+Gold,2016,Stephen Gaghan,6.7,120 min,R,"Crime, Drama",7.22
+Lethal Weapon 3,1992,Richard Donner,6.7,118 min,R,"Action, Crime, Thriller",144.73
+Death Sentence,2007,James Wan,6.7,105 min,R,"Action, Crime, Drama",9.53
+Kalifornia,1993,Dominic Sena,6.7,117 min,R,"Crime, Drama, Thriller",2.4
+Spun,2002,Jonas Åkerlund,6.7,101 min,R,"Comedy, Crime, Drama",0.41
+Appaloosa,2008,Ed Harris,6.7,115 min,R,"Action, Crime, Drama",20.21
+Veronica Mars,2014,Rob Thomas,6.7,107 min,PG-13,"Crime, Drama, Mystery",3.32
+Ransom,1996,Ron Howard,6.7,121 min,R,"Action, Crime, Thriller",136.49
+The Old Man & the Gun,2018,David Lowery,6.7,93 min,PG-13,"Biography, Comedy, Crime",11.28
+Phenomena,1985,Dario Argento,6.7,116 min,R,"Crime, Horror, Mystery",27.668
+The Brothers Bloom,2008,Rian Johnson,6.7,114 min,PG-13,"Action, Adventure, Comedy",3.52
+Notorious,2009,George Tillman Jr.,6.7,122 min,R,"Biography, Crime, Drama",36.84
+U Turn,1997,Oliver Stone,6.7,125 min,R,"Crime, Drama, Thriller",6.63
+Analyze This,1999,Harold Ramis,6.7,103 min,R,"Comedy, Crime",106.89
+Blood and Bone,2009,Ben Ramsey,6.7,93 min,R,"Action, Crime, Drama",34.247
+Summer of Sam,1999,Spike Lee,6.7,142 min,R,"Crime, Drama, Romance",19.28
+Machine Gun Preacher,2011,Marc Forster,6.7,129 min,R,"Action, Biography, Crime",0.54
+Colors,1988,Dennis Hopper,6.7,120 min,R,"Action, Crime, Drama",46.62
+Flawless,2007,Michael Radford,6.7,108 min,PG-13,"Crime, Drama, Thriller",1.2
+Things to Do in Denver When You're Dead,1995,Gary Fleder,6.7,115 min,R,"Crime, Drama, Thriller",0.53
+Wild Target,2010,Jonathan Lynn,6.7,98 min,PG-13,"Action, Comedy, Crime",0.12
+The Enforcer,1976,James Fargo,6.7,96 min,R,"Action, Crime, Thriller",46.2
+The Brave One,2007,Neil Jordan,6.7,122 min,R,"Action, Crime, Drama",36.79
+Apt Pupil,1998,Bryan Singer,6.7,111 min,R,"Crime, Drama, Thriller",8.84
+The Perfect Host,2010,Nicholas Tomnay,6.7,93 min,R,"Comedy, Crime, Thriller",0.05
+The Air I Breathe,2007,Jieho Lee,6.7,95 min,R,"Crime, Drama, Thriller",0.03
+Brooklyn's Finest,2009,Antoine Fuqua,6.7,132 min,R,"Action, Crime, Drama",27.15
+Nothing to Lose,1997,Steve Oedekerk,6.7,98 min,R,"Action, Adventure, Comedy",44.46
+Rumble in the Bronx,1995,Stanley Tong,6.7,87 min,R,"Action, Comedy, Crime",32.39
+Prizzi's Honor,1985,John Huston,6.7,130 min,R,"Comedy, Crime, Drama",26.7
+Cold in July,2014,Jim Mickle,6.7,109 min,R,"Crime, Thriller",0.41
+The Matador,2005,Richard Shepard,6.7,96 min,R,"Comedy, Crime, Thriller",12.59
+Stakeout,1987,John Badham,6.7,117 min,R,"Action, Comedy, Crime",65.67
+The Disappearance of Alice Creed,2009,J Blakeson,6.7,100 min,R,"Crime, Thriller",0.17
+Big Nothing,2006,Jean-Baptiste Andrea,6.7,86 min,R,"Comedy, Crime, Thriller",31.091
+Antim: The Final Truth,2021,Mahesh Manjrekar,6.7,138 min,18,"Action, Crime, Drama",41.254
+Defendor,2009,Peter Stebbings,6.7,101 min,R,"Comedy, Crime, Drama",0.04
+The Curse of the Jade Scorpion,2001,Woody Allen,6.7,103 min,PG-13,"Comedy, Crime, Mystery",7.5
+Enola Holmes,2020,Harry Bradbeer,6.6,123 min,PG-13,"Action, Adventure, Crime",196.53
+House of Gucci,2021,Ridley Scott,6.6,158 min,R,"Biography, Crime, Drama",139.153
+Minions: The Rise of Gru,2022,Kyle Balda,6.6,87 min,PG,"Animation, Adventure, Comedy",66.468
+Wild Things,1998,John McNaughton,6.6,108 min,R,"Crime, Drama, Mystery",29.75
+Austin Powers: The Spy Who Shagged Me,1999,Jay Roach,6.6,95 min,PG-13,"Action, Adventure, Comedy",206.04
+The Other Guys,2010,Adam McKay,6.6,107 min,PG-13,"Action, Comedy, Crime",119.22
+The Fate of the Furious,2017,F. Gary Gray,6.6,136 min,PG-13,"Action, Crime, Thriller",226.01
+Focus,(II) (2015),Glenn Ficarra,6.6,105 min,R,"Comedy, Crime, Drama",53.86
+Stillwater,2021,Tom McCarthy,6.6,139 min,R,"Crime, Drama, Thriller",44.994
+Inherent Vice,2014,Paul Thomas Anderson,6.6,148 min,R,"Comedy, Crime, Drama",8.11
+Cherry,(I) (2021),Anthony Russo,6.6,142 min,R,"Biography, Crime, Drama",33.294
+The Book of Henry,2017,Colin Trevorrow,6.6,105 min,PG-13,"Crime, Drama, Thriller",4.22
+Bad Boys II,2003,Michael Bay,6.6,147 min,R,"Action, Comedy, Crime",138.61
+The Heat,(I) (2013),Paul Feig,6.6,117 min,R,"Action, Comedy, Crime",159.58
+The Informer,2019,Andrea Di Stefano,6.6,113 min,R,"Action, Crime, Drama",38.486
+Smokin' Aces,2006,Joe Carnahan,6.6,108 min,R,"Action, Comedy, Crime",35.66
+Machete,2010,Ethan Maniquis,6.6,105 min,R,"Action, Crime, Thriller",26.59
+21 Bridges,2019,Brian Kirk,6.6,99 min,R,"Action, Crime, Drama",68.922
+Kiss the Girls,1997,Gary Fleder,6.6,115 min,R,"Crime, Drama, Mystery",60.53
+RED 2,2013,Dean Parisot,6.6,116 min,PG-13,"Action, Comedy, Crime",53.26
+Half Baked,1998,Tamra Davis,6.6,82 min,R,"Comedy, Crime",17.28
+Midnight in the Garden of Good and Evil,1997,Clint Eastwood,6.6,155 min,R,"Crime, Drama, Mystery",25.08
+Thoroughbreds,2017,Cory Finley,6.6,92 min,R,"Comedy, Crime, Drama",2.83
+Rush Hour 2,2001,Brett Ratner,6.6,90 min,PG-13,"Action, Comedy, Crime",226.16
+Man on a Ledge,2012,Asger Leth,6.6,102 min,PG-13,"Action, Crime, Thriller",18.62
+Happiest Season,2020,Clea DuVall,6.6,102 min,PG-13,"Comedy, Crime, Drama",42.637
+New Jack City,1991,Mario Van Peebles,6.6,97 min,R,"Action, Crime, Drama",47.62
+Lethal Weapon 4,1998,Richard Donner,6.6,127 min,R,"Action, Crime, Thriller",130.44
+Black Rain,1989,Ridley Scott,6.6,125 min,R,"Action, Crime, Drama",46.21
+A Perfect Murder,1998,Andrew Davis,6.6,107 min,R,"Crime, Drama, Thriller",67.64
+Irrational Man,2015,Woody Allen,6.6,95 min,R,"Comedy, Crime, Drama",4.03
+The Pelican Brief,1993,Alan J. Pakula,6.6,141 min,PG-13,"Crime, Drama, Mystery",100.77
+Run All Night,2015,Jaume Collet-Serra,6.6,114 min,R,"Action, Crime, Thriller",26.46
+The Loved Ones,2009,Sean Byrne,6.6,84 min,R,"Crime, Horror",41.702
+Peter Rabbit,2018,Will Gluck,6.6,95 min,PG,"Adventure, Comedy, Crime",115.25
+Going in Style,2017,Zach Braff,6.6,96 min,PG-13,"Comedy, Crime",45.02
+Vantage Point,2008,Pete Travis,6.6,90 min,PG-13,"Action, Crime, Drama",72.27
+Derailed,(I) (2005),Mikael Håfström,6.6,108 min,R,"Crime, Drama, Thriller",36.02
+True Crime,1999,Clint Eastwood,6.6,127 min,R,"Crime, Drama, Mystery",16.64
+Outland,1981,Peter Hyams,6.6,109 min,R,"Action, Crime, Sci-Fi",17.37
+I Love You Phillip Morris,2009,Glenn Ficarra,6.6,98 min,R,"Biography, Comedy, Crime",2.04
+Bad Lieutenant: Port of Call New Orleans,2009,Werner Herzog,6.6,122 min,R,"Crime, Drama",1.7
+Sudden Impact,1983,Clint Eastwood,6.6,117 min,R,"Action, Crime, Thriller",67.64
+The Way of the Gun,2000,Christopher McQuarrie,6.6,119 min,R,"Action, Crime, Drama",6.06
+Pride and Glory,2008,Gavin O'Connor,6.6,130 min,R,"Crime, Drama, Thriller",15.71
+Kiss of the Dragon,2001,Chris Nahon,6.6,98 min,R,"Action, Crime, Thriller",36.85
+The Art of Self-Defense,2019,Riley Stearns,6.6,104 min,R,"Action, Comedy, Crime",2.41
+Scoop,2006,Woody Allen,6.6,96 min,PG-13,"Comedy, Crime, Fantasy",10.53
+The Man Who Knew Too Little,1997,Jon Amiel,6.6,94 min,PG,"Comedy, Crime, Drama",13.8
+Transsiberian,2008,Brad Anderson,6.6,111 min,R,"Crime, Drama, Mystery",2.2
+Shattered,2007,Mike Barker,6.6,95 min,R,"Crime, Drama, Thriller",32.58
+Confidence,2003,James Foley,6.6,97 min,R,"Crime, Thriller",12.21
+Cassandra's Dream,2007,Woody Allen,6.6,108 min,PG-13,"Crime, Drama, Romance",0.97
+Raees,2017,Rahul Dholakia,6.6,143 min,Not Rated,"Action, Crime, Drama",3.26
+22 Bullets,2010,Richard Berry,6.6,117 min,Not Rated,"Action, Crime, Drama",35.26
+Wasabi,2001,Gérard Krawczyk,6.6,94 min,R,"Action, Drama, Comedy",0.08
+Paranoid Park,2007,Gus Van Sant,6.6,85 min,R,"Crime, Drama, Mystery",0.49
+Small Time Crooks,2000,Woody Allen,6.6,94 min,PG,"Comedy, Crime",17.07
+See How They Run,2022,Tom George,6.5,98 min,PG-13,"Comedy, Crime, Mystery",46.045
+Murder on the Orient Express,2017,Kenneth Branagh,6.5,114 min,PG-13,"Crime, Drama, Mystery",102.83
+Fast & Furious,2009,Justin Lin,6.5,107 min,PG-13,"Action, Crime, Thriller",155.06
+Ocean's Twelve,2004,Steven Soderbergh,6.5,125 min,PG-13,"Crime, Thriller",125.54
+Under the Silver Lake,2018,David Robert Mitchell,6.5,139 min,R,"Crime, Drama, Mystery",0.05
+The Girl on the Train,2016,Tate Taylor,6.5,112 min,R,"Crime, Drama, Mystery",75.4
+Double Jeopardy,1999,Bruce Beresford,6.5,105 min,R,"Crime, Drama, Mystery",116.74
+Gone in 60 Seconds,2000,Dominic Sena,6.5,118 min,PG-13,"Action, Crime, Thriller",101.65
+Mr. & Mrs. Smith,2005,Doug Liman,6.5,120 min,PG-13,"Action, Comedy, Crime",186.34
+Kick-Ass 2,2013,Jeff Wadlow,6.5,103 min,R,"Action, Comedy, Crime",28.8
+Bad Boys for Life,2020,Adil El Arbi,6.5,124 min,R,"Action, Comedy, Crime",206.31
+The Girl Next Door,2007,Gregory Wilson,6.5,91 min,R,"Crime, Drama, Horror",27.094
+Beverly Hills Cop II,1987,Tony Scott,6.5,100 min,R,"Action, Comedy, Crime",153.67
+Homefront,(I) (2013),Gary Fleder,6.5,100 min,R,"Action, Crime, Thriller",20.16
+Sin City: A Dame to Kill For,2014,Frank Miller,6.5,102 min,R,"Action, Crime, Thriller",13.76
+Naked Gun 33 1/3: The Final Insult,1994,Peter Segal,6.5,83 min,PG-13,"Comedy, Crime",51.13
+Step Up,2006,Anne Fletcher,6.5,104 min,PG-13,"Crime, Drama, Music",65.33
+Funny Games,2007,Michael Haneke,6.5,111 min,R,"Crime, Drama, Thriller",1.29
+White Boy Rick,2018,Yann Demange,6.5,111 min,R,"Crime, Drama",24.01
+Halloween,(I) (2018),David Gordon Green,6.5,106 min,R,"Crime, Horror, Thriller",159.34
+Imperium,2016,Daniel Ragussis,6.5,109 min,R,"Biography, Crime, Drama",47.014
+8MM,1999,Joel Schumacher,6.5,123 min,R,"Crime, Drama, Mystery",36.66
+"Roman J. Israel, Esq.",2017,Dan Gilroy,6.5,122 min,PG-13,"Crime, Drama, Thriller",11.96
+U.S. Marshals,1998,Stuart Baird,6.5,131 min,PG-13,"Action, Crime, Thriller",57.17
+Nerve,2016,Henry Joost,6.5,96 min,PG-13,"Action, Adventure, Crime",38.58
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996,Paris Barclay,6.5,89 min,R,"Comedy, Crime",20.11
+Cellular,2004,David R. Ellis,6.5,94 min,PG-13,"Action, Crime, Thriller",32
+A Walk Among the Tombstones,2014,Scott Frank,6.5,114 min,R,"Action, Crime, Drama",26.31
+The Mechanic,2011,Simon West,6.5,93 min,R,"Action, Crime, Thriller",29.12
+Swordfish,2001,Dominic Sena,6.5,99 min,R,"Action, Crime, Thriller",69.77
+Out of Time,(I) (2003),Carl Franklin,6.5,105 min,PG-13,"Crime, Drama, Mystery",40.91
+Safe,(I) (2012),Boaz Yakin,6.5,94 min,R,"Action, Crime, Thriller",17.14
+Awake,2007,Joby Harold,6.5,84 min,R,"Crime, Drama, Mystery",14.38
+The Clovehitch Killer,2018,Duncan Skiles,6.5,109 min,Unrated,"Crime, Drama, Mystery",0.01
+Hoodwinked,2005,Cory Edwards,6.5,80 min,PG,"Animation, Adventure, Comedy",51.39
+Batman,1966,Leslie H. Martinson,6.5,105 min,PG,"Action, Adventure, Comedy",33.915
+Oscar,1991,John Landis,6.5,109 min,PG,"Comedy, Crime",23.56
+Money Monster,2016,Jodie Foster,6.5,98 min,R,"Crime, Drama, Mystery",41.01
+The Final Girls,2015,Todd Strauss-Schulson,6.5,91 min,PG-13,"Comedy, Crime, Fantasy",47.959
+Bandits,2001,Barry Levinson,6.5,123 min,PG-13,"Comedy, Crime, Drama",41.58
+Premium Rush,2012,David Koepp,6.5,91 min,PG-13,"Action, Crime, Thriller",20.28
+Fanboys,2009,Kyle Newman,6.5,90 min,PG-13,"Adventure, Comedy, Crime",0.69
+The International,(I) (2009),Tom Tykwer,6.5,118 min,R,"Action, Crime, Drama",25.45
+Hostage,2005,Florent-Emilio Siri,6.5,113 min,R,"Action, Crime, Drama",34.64
+The River Wild,1994,Curtis Hanson,6.5,111 min,PG-13,"Adventure, Crime, Thriller",46.82
+The Informant!,2009,Steven Soderbergh,6.5,108 min,R,"Biography, Comedy, Crime",33.31
+Heist,2001,David Mamet,6.5,109 min,R,"Action, Crime, Drama",0.05
+Psycho II,1983,Richard Franklin,6.5,113 min,R,"Crime, Horror, Mystery",34.73
+Hollywoodland,2006,Allen Coulter,6.5,126 min,R,"Biography, Crime, Drama",14.42
+Sightseers,2012,Ben Wheatley,6.5,88 min,Not Rated,"Adventure, Comedy, Crime",0.04
+Dhoom 2,2006,Sanjay Gadhvi,6.5,152 min,Not Rated,"Action, Crime, Thriller",2.64
+Spartan,2004,David Mamet,6.5,106 min,R,"Action, Crime, Drama",4.43
+Taxi 2,2000,Gérard Krawczyk,6.5,88 min,Not Rated,"Action, Comedy, Crime",0.73
+District 13: Ultimatum,2009,Patrick Alessandrin,6.5,101 min,R,"Action, Crime, Thriller",0.04
+Stretch,2014,Joe Carnahan,6.5,94 min,R,"Comedy, Crime",31.394
+The Longest Yard,2005,Peter Segal,6.4,113 min,PG-13,"Comedy, Crime, Sport",158.12
+Army of Thieves,2021,Matthias Schweighöfer,6.4,127 min,TV-MA,"Action, Comedy, Crime",79.122
+No Sudden Move,2021,Steven Soderbergh,6.4,115 min,R,"Crime, Drama, Mystery",36.213
+Solace,(II) (2015),Afonso Poyart,6.4,101 min,R,"Crime, Drama, Mystery",64.384
+The Punisher,2004,Jonathan Hensleigh,6.4,124 min,R,"Action, Crime, Drama",33.68
+Pain & Gain,2013,Michael Bay,6.4,129 min,R,"Action, Comedy, Crime",49.88
+Minions,2015,Kyle Balda,6.4,91 min,PG,"Animation, Adventure, Comedy",336.05
+Savages,2012,Oliver Stone,6.4,131 min,R,"Action, Crime, Drama",47.38
+The Cell,2000,Tarsem Singh,6.4,107 min,R,"Crime, Horror, Sci-Fi",61.33
+The Taking of Pelham 123,2009,Tony Scott,6.4,106 min,R,"Action, Crime, Thriller",65.45
+The Raven,(I) (2012),James McTeigue,6.4,110 min,R,"Crime, Mystery, Thriller",16.01
+Now You See Me 2,2016,Jon M. Chu,6.4,129 min,PG-13,"Action, Adventure, Comedy",65.08
+Compliance,2012,Craig Zobel,6.4,90 min,R,"Crime, Drama, History",0.32
+Faster,2010,George Tillman Jr.,6.4,98 min,R,"Action, Crime, Drama",23.24
+Killer Elite,2011,Gary McKendry,6.4,116 min,R,"Action, Crime, Thriller",25.12
+Tango & Cash,1989,Andrey Konchalovskiy,6.4,104 min,R,"Action, Comedy, Crime",63.41
+Stand Up Guys,2012,Fisher Stevens,6.4,95 min,R,"Comedy, Crime, Thriller",3.3
+Ace Ventura: When Nature Calls,1995,Steve Oedekerk,6.4,90 min,PG-13,"Adventure, Comedy, Crime",108.39
+The Frozen Ground,2013,Scott Walker,6.4,105 min,R,"Crime, Drama, Thriller",64.162
+Weekend at Bernie's,1989,Ted Kotcheff,6.4,97 min,PG-13,"Adventure, Comedy, Crime",30.22
+The Number 23,2007,Joel Schumacher,6.4,98 min,R,"Crime, Mystery, Thriller",35.19
+The Jackal,1997,Michael Caton-Jones,6.4,124 min,R,"Action, Crime, Drama",54.93
+The Prophecy,1995,Gregory Widen,6.4,98 min,R,"Action, Crime, Drama",16.12
+Shaft,2019,Tim Story,6.4,111 min,R,"Action, Comedy, Crime",21.36
+Malice,1993,Harold Becker,6.4,107 min,R,"Crime, Mystery, Thriller",46.04
+Child 44,2015,Daniel Espinosa,6.4,137 min,R,"Crime, Drama, History",1.21
+Let's Be Cops,2014,Luke Greenfield,6.4,104 min,R,"Action, Comedy, Crime",82.39
+Chaos,(II) (2005),Tony Giglio,6.4,106 min,R,"Action, Crime, Drama",55.567
+Horns,2013,Alexandre Aja,6.4,120 min,R,"Comedy, Crime, Drama",0.16
+Blood Father,2016,Jean-François Richet,6.4,88 min,R,"Action, Crime, Drama",65.328
+The General's Daughter,1999,Simon West,6.4,116 min,R,"Crime, Drama, Mystery",102.71
+Live by Night,2016,Ben Affleck,6.4,129 min,R,"Action, Crime, Drama",10.38
+Batman: The Killing Joke,2016,Sam Liu,6.4,76 min,R,"Animation, Action, Crime",3.78
+Dead Man Down,2013,Niels Arden Oplev,6.4,118 min,R,"Action, Crime, Drama",10.88
+The Rover,2014,David Michôd,6.4,103 min,R,"Action, Crime, Drama",1.11
+Kill List,2011,Ben Wheatley,6.4,95 min,Not Rated,"Action, Crime, Horror",0.03
+Muppets Most Wanted,2014,James Bobin,6.4,107 min,PG,"Adventure, Comedy, Crime",51.18
+Contraband,2012,Baltasar Kormákur,6.4,109 min,R,"Action, Crime, Drama",66.53
+Creep 2,2017,Patrick Brice,6.4,78 min,Not Rated,"Crime, Drama, Horror",27.873
+Basic,2003,John McTiernan,6.4,98 min,R,"Action, Crime, Drama",26.54
+Lock Up,1989,John Flynn,6.4,109 min,R,"Action, Crime, Drama",22.1
+Under Suspicion,2000,Stephen Hopkins,6.4,110 min,R,"Crime, Drama, Thriller",0.26
+Last Man Standing,1996,Walter Hill,6.4,101 min,R,"Action, Crime, Drama",17.6
+The Interpreter,2005,Sydney Pollack,6.4,128 min,PG-13,"Crime, Mystery, Thriller",72.71
+From Paris with Love,2010,Pierre Morel,6.4,92 min,R,"Action, Crime, Thriller",23.98
+Just Cause,1995,Arne Glimcher,6.4,102 min,R,"Action, Crime, Drama",36.85
+Blood Work,2002,Clint Eastwood,6.4,110 min,R,"Action, Crime, Drama",26.2
+Son of a Gun,2014,Julius Avery,6.4,108 min,R,"Action, Crime, Drama",0
+Mean Machine,2001,Barry Skolnick,6.4,99 min,R,"Comedy, Crime, Drama",0.09
+Ned Kelly,2003,Gregor Jordan,6.4,110 min,R,"Action, Adventure, Biography",0.07
+Sleuth,2007,Kenneth Branagh,6.4,88 min,R,"Crime, Drama, Mystery",0.34
+Leaves of Grass,2009,Tim Blake Nelson,6.4,105 min,R,"Comedy, Crime, Drama",0.07
+Redirected,2014,Emilis Velyvis,6.4,99 min,Not Rated,"Action, Comedy, Crime",34.23
+Unknown,(I) (2006),Simon Brand,6.4,85 min,Not Rated,"Crime, Drama, Mystery",0.14
+Death on the Nile,2022,Kenneth Branagh,6.3,127 min,PG-13,"Crime, Drama, Mystery",153.462
+The Guilty,2021,Antoine Fuqua,6.3,90 min,R,"Crime, Drama, Thriller",128.659
+The Little Things,2021,John Lee Hancock,6.3,128 min,R,"Crime, Drama, Mystery",106.763
+Central Intelligence,2016,Rawson Marshall Thurber,6.3,107 min,PG-13,"Action, Comedy, Crime",127.44
+The Many Saints of Newark,2021,Alan Taylor,6.3,120 min,R,"Crime, Drama",55.751
+Hustlers,2019,Lorene Scafaria,6.3,110 min,R,"Comedy, Crime, Drama",104.96
+Ocean's Eight,2018,Gary Ross,6.3,110 min,PG-13,"Action, Comedy, Crime",140.22
+The Take,2016,James Watkins,6.3,92 min,R,"Action, Crime, Drama",0.04
+Kimi,2022,Steven Soderbergh,6.3,89 min,R,"Crime, Drama, Thriller",33.113
+The American,2010,Anton Corbijn,6.3,105 min,R,"Action, Crime, Drama",35.61
+Ghost in the Shell,2017,Rupert Sanders,6.3,107 min,PG-13,"Action, Crime, Drama",40.56
+Miss Congeniality,2000,Donald Petrie,6.3,109 min,PG-13,"Action, Comedy, Crime",106.81
+Triple 9,2016,John Hillcoat,6.3,115 min,R,"Action, Crime, Thriller",12.63
+Horrible Bosses 2,2014,Sean Anders,6.3,108 min,R,"Comedy, Crime",54.45
+The Family,(I) (2013),Luc Besson,6.3,111 min,R,"Comedy, Crime, Thriller",36.92
+I Care a Lot,2020,J Blakeson,6.3,118 min,R,"Comedy, Crime, Drama",134.654
+Revolver,2005,Guy Ritchie,6.3,111 min,R,"Action, Crime, Drama",0.08
+Guns Akimbo,2019,Jason Howden,6.3,98 min,R,"Action, Comedy, Crime",63.472
+Once Upon a Time in Mexico,2003,Robert Rodriguez,6.3,102 min,R,"Action, Crime, Thriller",56.36
+Blue Streak,1999,Les Mayfield,6.3,93 min,PG-13,"Action, Comedy, Crime",68.52
+The Laundromat,2019,Steven Soderbergh,6.3,96 min,R,"Comedy, Crime, Drama",51.993
+The Voices,2014,Marjane Satrapi,6.3,103 min,R,"Comedy, Crime, Fantasy",59.014
+Osmosis Jones,2001,Bobby Farrelly,6.3,95 min,PG,"Animation, Action, Adventure",13.6
+Crooked House,2017,Gilles Paquet-Brenner,6.3,115 min,PG-13,"Crime, Drama, Mystery",25.232
+Transporter 2,2005,Louis Leterrier,6.3,87 min,PG-13,"Action, Crime, Thriller",43.1
+Entrapment,1999,Jon Amiel,6.3,113 min,PG-13,"Action, Crime, Romance",87.7
+American Gigolo,1980,Paul Schrader,6.3,117 min,R,"Crime, Drama, Mystery",23
+Date Night,2010,Shawn Levy,6.3,88 min,PG-13,"Comedy, Crime, Romance",98.71
+Intolerable Cruelty,2003,Joel Coen,6.3,100 min,PG-13,"Comedy, Crime, Romance",35.33
+True Story,2019,Rupert Goold,6.3,99 min,R,"Biography, Crime, Drama",4.72
+The Producers,2005,Susan Stroman,6.3,134 min,PG-13,"Comedy, Crime, Musical",19.38
+Assassins,1995,Richard Donner,6.3,133 min,R,"Action, Crime, Thriller",30.31
+Assault on Precinct 13,2005,Jean-François Richet,6.3,109 min,R,"Action, Crime, Drama",19.98
+Mindhunters,2004,Renny Harlin,6.3,106 min,R,"Crime, Horror, Thriller",4.48
+Free Fire,2016,Ben Wheatley,6.3,91 min,R,"Action, Comedy, Crime",1.8
+Death to Smoochy,2002,Danny DeVito,6.3,109 min,R,"Comedy, Crime, Drama",8.36
+The Dead Pool,1988,Buddy Van Horn,6.3,91 min,R,"Action, Crime, Mystery",37.9
+High Crimes,2002,Carl Franklin,6.3,115 min,PG-13,"Crime, Drama, Mystery",41.54
+Death Wish,2018,Eli Roth,6.3,107 min,R,"Action, Crime, Drama",34.02
+Throw Momma from the Train,1987,Danny DeVito,6.3,87 min,PG-13,"Comedy, Crime, Thriller",57.92
+All Good Things,2010,Andrew Jarecki,6.3,101 min,R,"Crime, Drama, Mystery",0.58
+Secret in Their Eyes,2015,Billy Ray,6.3,111 min,PG-13,"Crime, Drama, Mystery",20.18
+Very Bad Things,1998,Peter Berg,6.3,100 min,R,"Comedy, Crime, Thriller",9.8
+Nick of Time,1995,John Badham,6.3,90 min,R,"Action, Crime, Drama",8.17
+A Life Less Ordinary,1997,Danny Boyle,6.3,103 min,R,"Comedy, Crime, Fantasy",4.27
+Formula 51,2001,Ronny Yu,6.3,93 min,R,"Action, Comedy, Crime",5.2
+Cop Car,2015,Jon Watts,6.3,88 min,R,"Crime, Thriller",0.13
+The Art of the Steal,2013,Jonathan Sobol,6.3,90 min,R,"Comedy, Crime, Thriller",0.06
+Flypaper,2011,Rob Minkoff,6.3,87 min,Not Rated,"Comedy, Crime, Mystery",0
+Nurse Betty,2000,Neil LaBute,6.3,110 min,R,"Comedy, Crime, Drama",25.17
+Malignant,(I) (2021),James Wan,6.2,111 min,R,"Crime, Horror, Mystery",93.239
+Kindergarten Cop,1990,Ivan Reitman,6.2,111 min,PG-13,"Action, Comedy, Crime",91.46
+Cold Pursuit,2019,Hans Petter Moland,6.2,119 min,R,"Action, Comedy, Crime",32.14
+Austin Powers in Goldmember,2002,Jay Roach,6.2,94 min,PG-13,"Action, Adventure, Comedy",213.31
+Kate,(I) (2021),Cedric Nicolas-Troyan,6.2,106 min,R,"Action, Adventure, Crime",63.353
+1922,2017,Zak Hilditch,6.2,102 min,TV-MA,"Crime, Drama, Horror",65.44
+In the Shadow of the Moon,2019,Jim Mickle,6.2,115 min,TV-MA,"Action, Crime, Mystery",54.673
+Inferno,2016,Ron Howard,6.2,121 min,PG-13,"Action, Adventure, Crime",34.34
+The Losers,(I) (2010),Sylvain White,6.2,97 min,PG-13,"Action, Adventure, Comedy",23.58
+Redemption,(I) (2013),Steven Knight,6.2,100 min,R,"Action, Crime, Drama",0.03
+Dick Tracy,1990,Warren Beatty,6.2,105 min,PG,"Action, Comedy, Crime",103.74
+Killing Them Softly,2012,Andrew Dominik,6.2,97 min,R,"Crime, Drama, Thriller",15.03
+Hackers,1995,Iain Softley,6.2,105 min,PG-13,"Crime, Drama, Romance",7.56
+The Card Counter,2021,Paul Schrader,6.2,111 min,R,"Crime, Drama, Thriller",36.516
+RoboCop,2014,José Padilha,6.2,117 min,PG-13,"Action, Crime, Sci-Fi",58.61
+Walking Tall,2004,Kevin Bray,6.2,86 min,PG-13,"Action, Crime",45.86
+Hitman,(I) (2007),Xavier Gens,6.2,100 min,R,"Action, Crime, Thriller",39.69
+Synchronic,2019,Justin Benson,6.2,102 min,R,"Crime, Drama, Horror",32.78
+War,2007,Philip G. Atwell,6.2,103 min,R,"Action, Crime, Thriller",22.49
+The Texas Chainsaw Massacre,2003,Marcus Nispel,6.2,98 min,R,"Crime, Horror",80.57
+The Brothers Grimsby,2016,Louis Leterrier,6.2,83 min,R,"Action, Adventure, Comedy",6.86
+Deliver Us from Evil,(I) (2014),Scott Derrickson,6.2,118 min,R,"Action, Adventure, Crime",30.58
+Tower Heist,2011,Brett Ratner,6.2,104 min,PG-13,"Action, Comedy, Crime",78.05
+Taken 2,2012,Olivier Megaton,6.2,92 min,PG-13,"Action, Crime, Thriller",139.85
+Heartbreakers,2001,David Mirkin,6.2,123 min,PG-13,"Comedy, Crime, Romance",40.34
+Baby's Day Out,1994,Patrick Read Johnson,6.2,99 min,PG,"Adventure, Comedy, Crime",16.67
+Takers,2010,John Luessenhop,6.2,107 min,PG-13,"Action, Crime, Drama",57.74
+Eraser,1996,Chuck Russell,6.2,115 min,R,"Action, Crime, Thriller",101.3
+Despicable Me 3,2017,Kyle Balda,6.2,89 min,PG,"Animation, Adventure, Comedy",264.62
+Saw III,2006,Darren Lynn Bousman,6.2,108 min,R,"Crime, Horror, Mystery",80.24
+Rush Hour 3,2007,Brett Ratner,6.2,91 min,PG-13,"Action, Comedy, Crime",140.13
+Rising Sun,1993,Philip Kaufman,6.2,129 min,R,"Action, Crime, Drama",63.1
+The Outsider,(I) (2018),Martin Zandvliet,6.2,120 min,TV-MA,"Action, Crime, Drama",26.825
+Lionheart,1990,Sheldon Lettich,6.2,108 min,R,"Action, Crime, Drama",24.08
+Parker,2013,Taylor Hackford,6.2,118 min,R,"Action, Crime, Thriller",17.62
+Hard Target,1993,John Woo,6.2,97 min,R,"Action, Crime, Thriller",32.59
+Turner & Hooch,1989,Roger Spottiswoode,6.2,97 min,PG,"Comedy, Crime, Drama",71.08
+Dark Places,2015,Gilles Paquet-Brenner,6.2,113 min,R,"Crime, Drama, Mystery",46.031
+Stuber,2019,Michael Dowse,6.2,93 min,R,"Action, Comedy, Crime",22.37
+The Silencing,2020,Robin Pront,6.2,93 min,R,"Action, Crime, Mystery",26.393
+Taking Lives,2004,D.J. Caruso,6.2,103 min,R,"Crime, Mystery, Thriller",32.68
+The Whole Truth,2016,Courtney Hunt,6.2,93 min,R,"Crime, Drama, Mystery",29.726
+Fun with Dick and Jane,2005,Dean Parisot,6.2,90 min,PG-13,"Comedy, Crime",110.33
+Keanu,2016,Peter Atencio,6.2,100 min,R,"Action, Comedy, Crime",20.57
+Destroyer,2018,Karyn Kusama,6.2,121 min,R,"Action, Crime, Drama",1.53
+Femme Fatale,2002,Brian De Palma,6.2,114 min,R,"Crime, Drama, Mystery",6.59
+The Devil's Own,1997,Alan J. Pakula,6.2,111 min,R,"Action, Crime, Drama",42.87
+After the Sunset,2004,Brett Ratner,6.2,97 min,PG-13,"Action, Comedy, Crime",28.33
+Money Talks,1997,Brett Ratner,6.2,97 min,R,"Action, Comedy, Crime",41.07
+Untraceable,2008,Gregory Hoblit,6.2,101 min,R,"Crime, Mystery, Thriller",28.69
+The Ladykillers,2004,Ethan Coen,6.2,104 min,R,"Comedy, Crime, Thriller",39.8
+Two for the Money,2005,D.J. Caruso,6.2,122 min,R,"Crime, Drama, Sport",22.86
+Loaded Weapon 1,1993,Gene Quintano,6.2,84 min,PG-13,"Action, Comedy, Crime",27.98
+Blown Away,1994,Stephen Hopkins,6.2,121 min,R,"Action, Crime, Drama",30.16
+London Boulevard,2010,William Monahan,6.2,103 min,R,"Crime, Drama",0.01
+Lions for Lambs,2007,Robert Redford,6.2,92 min,R,"Crime, Drama, Mystery",15
+Lakeview Terrace,2008,Neil LaBute,6.2,110 min,PG-13,"Crime, Drama, Thriller",39.26
+Deadfall,2012,Stefan Ruzowitzky,6.2,95 min,R,"Crime, Drama, Thriller",0.07
+Needful Things,1993,Fraser C. Heston,6.2,120 min,R,"Crime, Drama, Fantasy",15.19
+The Fifth Estate,2013,Bill Condon,6.2,128 min,R,"Biography, Crime, Drama",3.25
+A Lonely Place to Die,2011,Julian Gilbey,6.2,99 min,R,"Action, Adventure, Crime",29.72
+Mr. Nice Guy,1997,Sammo Kam-Bo Hung,6.2,88 min,PG-13,"Action, Adventure, Comedy",12.67
+One Night at McCool's,2001,Harald Zwart,6.2,93 min,R,"Comedy, Crime",6.29
+Dabangg,2010,Abhinav Kashyap,6.2,126 min,Not Rated,"Action, Comedy, Crime",4.63
+Twins,1988,Ivan Reitman,6.1,107 min,PG,"Comedy, Crime",111.94
+Ambulance,2022,Michael Bay,6.1,136 min,R,"Action, Crime, Drama",76.049
+Lou,(I) (2022),Anna Foerster,6.1,107 min,R,"Action, Crime, Drama",25.965
+Broken City,2013,Allen Hughes,6.1,109 min,R,"Action, Crime, Drama",19.7
+Jack Reacher: Never Go Back,2016,Edward Zwick,6.1,118 min,PG-13,"Action, Crime, Drama",58.7
+Hitman's Wife's Bodyguard,2021,Patrick Hughes,6.1,100 min,R,"Action, Comedy, Crime",95.262
+Airheads,1994,Michael Lehmann,6.1,92 min,PG-13,"Comedy, Crime, Music",5.37
+The Girl in the Spider's Web,2018,Fede Alvarez,6.1,115 min,R,"Action, Crime, Drama",14.84
+Rambo: Last Blood,2019,Adrian Grunberg,6.1,89 min,R,"Action, Crime, Thriller",18.87
+Crank: High Voltage,2009,Mark Neveldine,6.1,96 min,R,"Action, Crime, Thriller",13.63
+30 Minutes or Less,2011,Ruben Fleischer,6.1,83 min,R,"Action, Comedy, Crime",37.05
+Code 8,2019,Jeff Chan,6.1,98 min,Not Rated,"Action, Crime, Drama",40.933
+Starsky & Hutch,2004,Todd Phillips,6.1,101 min,PG-13,"Comedy, Crime",88.24
+Anon,(I) (2018),Andrew Niccol,6.1,100 min,TV-MA,"Crime, Mystery, Sci-Fi",45.595
+Red Heat,1988,Walter Hill,6.1,104 min,R,"Action, Comedy, Crime",34.99
+Heist,(III) (2015),Scott Mann,6.1,93 min,R,"Action, Crime, Drama",31.057
+Hotel Artemis,2018,Drew Pearce,6.1,94 min,R,"Action, Crime, Drama",6.71
+Murder by Numbers,2002,Barbet Schroeder,6.1,115 min,R,"Crime, Mystery, Thriller",31.95
+Ride Along,2014,Tim Story,6.1,99 min,PG-13,"Action, Comedy, Crime",134.94
+Hannibal Rising,2007,Peter Webber,6.1,121 min,R,"Adventure, Crime, Drama",27.67
+Mercury Rising,1998,Harold Becker,6.1,111 min,R,"Action, Crime, Drama",32.94
+The Mexican,2001,Gore Verbinski,6.1,123 min,R,"Adventure, Comedy, Crime",66.81
+Snake Eyes,1998,Brian De Palma,6.1,98 min,R,"Crime, Mystery, Thriller",55.59
+Romeo Must Die,2000,Andrzej Bartkowiak,6.1,115 min,R,"Action, Crime, Thriller",55.97
+Splinter,(I) (2008),Toby Wilkins,6.1,82 min,R,"Crime, Horror, Sci-Fi",38.667
+Point of No Return,1993,John Badham,6.1,109 min,R,"Action, Crime, Drama",30.04
+Blitz,2011,Elliott Lester,6.1,97 min,R,"Action, Crime, Thriller",88.081
+Red State,2011,Kevin Smith,6.1,88 min,R,"Action, Crime, Horror",1.1
+The Killer Inside Me,2010,Michael Winterbottom,6.1,109 min,R,"Crime, Drama, Thriller",0.21
+Extract,2009,Mike Judge,6.1,92 min,R,"Comedy, Crime, Romance",10.81
+Gringo,2018,Nash Edgerton,6.1,111 min,R,"Action, Comedy, Crime",4.97
+Dom Hemingway,2013,Richard Shepard,6.1,93 min,R,"Comedy, Crime, Drama",0.52
+Duplicity,2009,Tony Gilroy,6.1,125 min,PG-13,"Comedy, Crime, Romance",40.57
+Undisputed,2002,Walter Hill,6.1,94 min,R,"Action, Crime, Drama",12.4
+The Sentinel,2006,Clark Johnson,6.1,108 min,PG-13,"Action, Crime, Thriller",36.28
+The Lovebirds,2020,Michael Showalter,6.1,86 min,R,"Action, Comedy, Crime",26.557
+The Replacement Killers,1998,Antoine Fuqua,6.1,87 min,R,"Action, Crime, Thriller",18.97
+The Invisible,2007,David S. Goyer,6.1,102 min,PG-13,"Crime, Drama, Fantasy",20.57
+Murder at 1600,1997,Dwight H. Little,6.1,107 min,R,"Action, Crime, Drama",25.83
+Welcome to the Punch,2013,Eran Creevy,6.1,99 min,R,"Action, Crime, Thriller",0.01
+15 Minutes,2001,John Herzfeld,6.1,120 min,R,"Action, Crime, Drama",24.4
+Sooryavanshi,2021,Rohit Shetty,6.1,145 min,16,"Action, Crime, Thriller",77.415
+The Oxford Murders,2008,Álex de la Iglesia,6.1,108 min,R,"Crime, Horror, Mystery",0
+Seeking Justice,2011,Roger Donaldson,6.1,105 min,R,"Action, Crime, Drama",0.04
+City by the Sea,2002,Michael Caton-Jones,6.1,108 min,R,"Crime, Drama, Mystery",22.43
+Antitrust,2001,Peter Howitt,6.1,108 min,PG-13,"Action, Crime, Drama",10.97
+Kick,2014,Sajid Nadiadwala,6.1,146 min,Not Rated,"Action, Comedy, Crime",2.46
+Murder Mystery,2019,Kyle Newacheck,6,97 min,PG-13,"Action, Comedy, Crime",131.792
+The Fast and the Furious: Tokyo Drift,2006,Justin Lin,6,104 min,PG-13,"Action, Crime, Thriller",62.51
+S.W.A.T.,2003,Clark Johnson,6,117 min,PG-13,"Action, Adventure, Crime",116.93
+Birds of Prey,2020,Cathy Yan,6,109 min,R,"Action, Adventure, Comedy",84.16
+Gunpowder Milkshake,2021,Navot Papushado,6,114 min,R,"Action, Crime, Thriller",45.97
+Don't Breathe 2,2021,Rodo Sayagues,6,98 min,R,"Action, Crime, Horror",32.64
+Project Power,2020,Henry Joost,6,113 min,R,"Action, Crime, Sci-Fi",90.447
+Righteous Kill,2008,Jon Avnet,6,101 min,R,"Crime, Mystery, Thriller",40.08
+Pink Flamingos,1972,John Waters,6,93 min,NC-17,"Comedy, Crime",0.18
+Miami Vice,2006,Michael Mann,6,132 min,R,"Action, Adventure, Crime",63.45
+Taken 3,2014,Olivier Megaton,6,108 min,PG-13,"Action, Crime, Thriller",89.26
+CHIPS,2017,Dax Shepard,6,100 min,R,"Action, Comedy, Crime",18.6
+Shaft,2000,John Singleton,6,99 min,R,"Action, Crime, Thriller",70.33
+Above the Law,1988,Andrew Davis,6,99 min,R,"Action, Crime, Drama",18.87
+Get Hard,2015,Etan Cohen,6,100 min,R,"Comedy, Crime",90.41
+The Gambler,(III) (2014),Rupert Wyatt,6,111 min,R,"Crime, Drama, Thriller",33.68
+The Condemned,2007,Scott Wiper,6,113 min,R,"Action, Crime, Thriller",0
+The Hunted,2003,William Friedkin,6,94 min,R,"Action, Crime, Drama",34.24
+Super Troopers 2,2018,Jay Chandrasekhar,6,99 min,R,"Comedy, Crime, Mystery",30.62
+A Man Apart,2003,F. Gary Gray,6,109 min,R,"Action, Crime, Drama",26.18
+The Big Hit,1998,Kirk Wong,6,91 min,R,"Action, Comedy, Crime",27.05
+Dragnet,1987,Tom Mankiewicz,6,106 min,PG-13,"Comedy, Crime",57.39
+The Shadow,1994,Russell Mulcahy,6,108 min,PG-13,"Action, Adventure, Crime",32.06
+Tequila Sunrise,1988,Robert Towne,6,115 min,R,"Crime, Drama, Romance",41.29
+13,(I) (2010),Géla Babluani,6,91 min,R,"Crime, Drama, Thriller",42.604
+Deception,2008,Marcel Langenegger,6,107 min,R,"Crime, Drama, Mystery",4.6
+The Code,(I) (2009),Mimi Leder,6,104 min,R,"Action, Crime, Thriller",35.106
+K-9,1989,Rod Daniel,6,101 min,PG-13,"Action, Comedy, Crime",43.25
+Birthday Girl,2001,Jez Butterworth,6,93 min,R,"Comedy, Crime, Thriller",4.92
+Orphan: First Kill,2022,William Brent Bell,5.9,99 min,R,"Crime, Drama, Horror",33.709
+2 Fast 2 Furious,2003,John Singleton,5.9,107 min,PG-13,"Action, Crime, Thriller",127.15
+Into the Blue,2005,John Stockwell,5.9,110 min,PG-13,"Action, Adventure, Crime",18.47
+The Last House on the Left,1972,Wes Craven,5.9,84 min,R,"Crime, Horror, Thriller",3.1
+The Net,(I) (1995),Irwin Winkler,5.9,114 min,PG-13,"Action, Crime, Drama",50.73
+3000 Miles to Graceland,2001,Demian Lichtenstein,5.9,125 min,R,"Action, Comedy, Crime",15.74
+Saw IV,2007,Darren Lynn Bousman,5.9,93 min,R,"Crime, Horror, Mystery",63.3
+The Captive,(I) (2014),Atom Egoyan,5.9,112 min,R,"Crime, Drama, Mystery",34.19
+Passenger 57,1992,Kevin Hooks,5.9,84 min,R,"Action, Crime, Thriller",44.07
+Another 48 Hrs.,1990,Walter Hill,5.9,95 min,R,"Action, Comedy, Crime",80.82
+Punisher: War Zone,2008,Lexi Alexander,5.9,103 min,R,"Action, Crime, Drama",7.95
+Timecop,1994,Peter Hyams,5.9,99 min,R,"Action, Crime, Sci-Fi",44.85
+Kidnap,(I) (2017),Luis Prieto,5.9,95 min,R,"Action, Crime, Thriller",30.72
+P2,2007,Franck Khalfoun,5.9,98 min,R,"Crime, Horror, Thriller",3.99
+Hard Rain,1998,Mikael Salomon,5.9,97 min,R,"Action, Crime, Drama",19.82
+Ride Along 2,2016,Tim Story,5.9,102 min,PG-13,"Action, Comedy, Crime",91.22
+Domino,2005,Tony Scott,5.9,127 min,R,"Action, Biography, Crime",10.17
+The Rookie,1990,Clint Eastwood,5.9,120 min,R,"Action, Crime, Drama",21.63
+The Tall Man,2012,Pascal Laugier,5.9,106 min,R,"Crime, Drama, Horror",41.529
+Men at Work,1990,Emilio Estevez,5.9,98 min,PG-13,"Action, Comedy, Crime",16.25
+The Double,(I) (2011),Michael Brandt,5.9,98 min,PG-13,"Action, Crime, Drama",30.811
+Analyze That,2002,Harold Ramis,5.9,96 min,R,"Comedy, Crime",32.12
+88 Minutes,2007,Jon Avnet,5.9,108 min,R,"Crime, Drama, Mystery",16.93
+The X Files: I Want to Believe,2008,Chris Carter,5.9,104 min,PG-13,"Crime, Drama, Horror",20.98
+Let's Go to Prison,2006,Bob Odenkirk,5.9,84 min,R,"Comedy, Crime",4.61
+Fortress,1992,Stuart Gordon,5.9,95 min,R,"Action, Crime, Sci-Fi",6.74
+Mickey Blue Eyes,1999,Kelly Makin,5.9,102 min,PG-13,"Comedy, Crime, Romance",33.86
+Reno 911!: Miami,2007,Robert Ben Garant,5.9,84 min,R,"Comedy, Crime",20.34
+Pathology,2008,Marc Schölermann,5.9,95 min,R,"Crime, Thriller",0.11
+Cobra,1986,George P. Cosmatos,5.8,87 min,R,"Action, Crime, Thriller",49.04
+The Green Hornet,2011,Michel Gondry,5.8,119 min,PG-13,"Action, Comedy, Crime",98.78
+The Hangover Part III,2013,Todd Phillips,5.8,100 min,R,"Comedy, Crime",112.2
+Masterminds,2016,Jared Hess,5.8,95 min,PG-13,"Biography, Comedy, Crime",17.36
+RoboCop 2,1990,Irvin Kershner,5.8,117 min,R,"Action, Crime, Sci-Fi",45.68
+Hard to Kill,1990,Bruce Malmuth,5.8,96 min,R,"Action, Crime, Drama",47.41
+The Glass House,2001,Daniel Sackheim,5.8,106 min,PG-13,"Crime, Drama, Mystery",18
+Reindeer Games,2000,John Frankenheimer,5.8,104 min,R,"Action, Adventure, Crime",23.36
+Striking Distance,1993,Rowdy Herrington,5.8,102 min,R,"Action, Crime, Mystery",23.8
+Firewall,2006,Richard Loncraine,5.8,105 min,PG-13,"Action, Crime, Thriller",48.75
+Saw V,2008,David Hackl,5.8,92 min,R,"Crime, Horror, Thriller",56.75
+Suburbicon,2017,George Clooney,5.8,105 min,R,"Comedy, Crime, Drama",5.78
+Saving Silverman,2001,Dennis Dugan,5.8,90 min,PG-13,"Comedy, Crime, Romance",19.35
+The Gunman,2015,Pierre Morel,5.8,115 min,R,"Action, Adventure, Crime",10.64
+Sudden Death,1995,Peter Hyams,5.8,111 min,R,"Action, Crime, Thriller",20.35
+Bulletproof,1996,Ernest R. Dickerson,5.8,84 min,R,"Action, Comedy, Crime",21.16
+Cradle 2 the Grave,2003,Andrzej Bartkowiak,5.8,101 min,R,"Action, Crime, Drama",34.71
+Taxi 3,2003,Gérard Krawczyk,5.8,84 min,Not Rated,"Action, Comedy, Crime",0.5
+Memory,2022,Martin Campbell,5.7,114 min,R,"Action, Crime, Thriller",26.765
+White Chicks,2004,Keenen Ivory Wayans,5.7,109 min,PG-13,"Comedy, Crime",70.83
+Army of the Dead,2021,Zack Snyder,5.7,148 min,R,"Action, Crime, Drama",1
+The Woman in the Window,2020,Joe Wright,5.7,100 min,R,"Crime, Drama, Mystery",76.752
+Identity Thief,2013,Seth Gordon,5.7,111 min,R,"Comedy, Crime, Drama",134.51
+Perfect Stranger,2007,James Foley,5.7,109 min,R,"Crime, Mystery, Thriller",23.98
+Only God Forgives,2013,Nicolas Winding Refn,5.7,90 min,R,"Action, Crime, Drama",0.78
+Sabotage,2014,David Ayer,5.7,109 min,R,"Action, Crime, Drama",10.51
+Jigsaw,(I) (2017),Michael Spierig,5.7,92 min,R,"Crime, Horror, Mystery",38.05
+Mechanic: Resurrection,2016,Dennis Gansel,5.7,98 min,R,"Action, Adventure, Crime",21.22
+101 Dalmatians,1996,Stephen Herek,5.7,103 min,G,"Adventure, Comedy, Crime",136.19
+Hitman: Agent 47,2015,Aleksander Bach,5.7,96 min,R,"Action, Crime, Thriller",22.47
+Enough,(I) (2002),Michael Apted,5.7,115 min,PG-13,"Crime, Drama, Thriller",40.01
+Beckett,2021,Ferdinando Cito Filomarino,5.7,110 min,TV-MA,"Action, Crime, Drama",26.724
+The Paperboy,2012,Lee Daniels,5.7,107 min,R,"Crime, Drama, Mystery",0.69
+Drillbit Taylor,2008,Steven Brill,5.7,110 min,PG-13,"Action, Comedy, Crime",32.85
+Bandidas,2006,Joachim Rønning,5.7,93 min,PG-13,"Action, Comedy, Crime",36.045
+Bullet to the Head,2012,Walter Hill,5.7,92 min,R,"Action, Crime, Thriller",9.48
+Money Train,1995,Joseph Ruben,5.7,110 min,R,"Action, Comedy, Crime",35.32
+Gambit,(I) (2012),Michael Hoffman,5.7,100 min,PG-13,"Comedy, Crime",25.084
+Observe and Report,2009,Jody Hill,5.7,86 min,R,"Comedy, Crime, Drama",23.99
+The Nut Job,(I) (2014),Peter Lepeniotis,5.7,85 min,PG,"Animation, Adventure, Comedy",64.25
+The Art of War,2000,Christian Duguay,5.7,117 min,R,"Action, Adventure, Crime",30.21
+Armored,2009,Nimród Antal,5.7,88 min,PG-13,"Action, Crime, Thriller",15.99
+R.I.P.D.,2013,Robert Schwentke,5.6,96 min,PG-13,"Action, Adventure, Comedy",33.62
+Charlie's Angels,2000,McG,5.6,98 min,PG-13,"Action, Adventure, Comedy",125.31
+Wild Card,2015,Simon West,5.6,92 min,R,"Action, Crime, Drama",0
+The Weekend Away,2022,Kim Farrant,5.6,89 min,TV-14,"Crime, Drama, Mystery",25.592
+Regression,2019,Alejandro Amenábar,5.6,106 min,R,"Adventure, Crime, Drama",0.05
+The Pink Panther,2006,Shawn Levy,5.6,93 min,PG,"Adventure, Comedy, Crime",82.23
+Hold the Dark,2018,Jeremy Saulnier,5.6,125 min,TV-MA,"Action, Crime, Drama",38.189
+National Security,2003,Dennis Dugan,5.6,88 min,PG-13,"Action, Comedy, Crime",35.76
+The Bling Ring,2013,Sofia Coppola,5.6,90 min,R,"Biography, Crime, Drama",5.84
+Scoob!,2020,Tony Cervone,5.6,93 min,PG,"Animation, Adventure, Comedy",2.19
+Jolt,2021,Tanya Wexler,5.6,91 min,R,"Action, Comedy, Crime",31.85
+House on Haunted Hill,1999,William Malone,5.6,93 min,R,"Crime, Fantasy, Horror",40.85
+Jawbreaker,1999,Darren Stein,5.6,78 min,R,"Comedy, Crime, Thriller",3.07
+Machete Kills,2013,Robert Rodriguez,5.6,107 min,R,"Action, Crime, Thriller",8.01
+The Black Dahlia,2006,Brian De Palma,5.6,121 min,R,"Crime, Drama, Mystery",22.52
+Judge Dredd,1995,Danny Cannon,5.6,96 min,R,"Action, Crime, Sci-Fi",34.69
+Be Cool,2005,F. Gary Gray,5.6,118 min,PG-13,"Comedy, Crime, Music",56.05
+The House,(I) (2017),Andrew Jay Cohen,5.6,88 min,R,"Comedy, Crime",25.48
+Runner Runner,2013,Brad Furman,5.6,88 min,R,"Crime, Thriller",19.32
+The Pink Panther 2,2009,Harald Zwart,5.6,92 min,PG,"Action, Adventure, Comedy",35.92
+Double Impact,1991,Sheldon Lettich,5.6,110 min,R,"Action, Crime",30.1
+The Perfect Score,2004,Brian Robbins,5.6,93 min,PG-13,"Comedy, Crime, Drama",10.39
+Exit Wounds,2001,Andrzej Bartkowiak,5.6,101 min,R,"Action, Crime, Thriller",51.76
+Survivor,2019,James McTeigue,5.6,96 min,PG-13,"Action, Crime, Thriller",34.333
+Brick Mansions,2014,Camille Delamarre,5.6,90 min,PG-13,"Action, Crime, Thriller",20.29
+The Hitcher,2007,Dave Meyers,5.6,84 min,R,"Crime, Thriller",16.47
+Bad Santa 2,2016,Mark Waters,5.6,92 min,R,"Comedy, Crime, Drama",17.78
+The Skulls,2000,Rob Cohen,5.6,106 min,PG-13,"Action, Crime, Drama",35.05
+12 Rounds,2009,Renny Harlin,5.6,108 min,PG-13,"Action, Crime, Thriller",12.23
+The Contract,2006,Bruce Beresford,5.6,96 min,R,"Action, Crime, Drama",25.347
+Domestic Disturbance,2001,Harold Becker,5.6,89 min,PG-13,"Crime, Thriller",45.25
+"67th Street, New York, NY",2011,Enzo Zelocchi,5.6,105 min,,"Crime, Thriller",34.016
+Baywatch,2017,Seth Gordon,5.5,116 min,R,"Action, Comedy, Crime",58.06
+Snakes on a Plane,2006,David R. Ellis,5.5,105 min,R,"Action, Adventure, Crime",34.02
+Beverly Hills Cop III,1994,John Landis,5.5,104 min,R,"Action, Comedy, Crime",42.61
+Saw 3D,2010,Kevin Greutert,5.5,90 min,R,"Crime, Horror, Mystery",45.71
+Virtuosity,1995,Brett Leonard,5.5,106 min,R,"Action, Crime, Sci-Fi",24.05
+Mortdecai,2015,David Koepp,5.5,107 min,R,"Action, Adventure, Comedy",7.61
+Raw Deal,1986,John Irvin,5.5,106 min,R,"Action, Crime, Thriller",16.21
+Whiteout,2009,Dominic Sena,5.5,101 min,R,"Action, Crime, Mystery",10.28
+Metro,1997,Thomas Carter,5.5,117 min,R,"Action, Comedy, Crime",31.99
+Stolen,2012,Simon West,5.5,96 min,R,"Action, Crime, Thriller",0.3
+Cop Out,2010,Kevin Smith,5.5,107 min,R,"Action, Comedy, Crime",44.88
+The Man,2005,Les Mayfield,5.5,83 min,PG-13,"Action, Comedy, Crime",8.33
+Fighting,2009,Dito Montiel,5.5,105 min,PG-13,"Action, Crime, Drama",23.04
+Showtime,2002,Tom Dey,5.5,95 min,PG-13,"Action, Comedy, Crime",38.08
+Taxi 4,2007,Gérard Krawczyk,5.5,91 min,Not Rated,"Action, Comedy, Crime",29.162
+Spiderhead,2022,Joseph Kosinski,5.4,106 min,R,"Action, Crime, Drama",58.293
+Snake Eyes,2021,Robert Schwentke,5.4,121 min,PG-13,"Action, Adventure, Crime",39.676
+The Hustle,2019,Chris Addison,5.4,93 min,PG-13,"Comedy, Crime",35.42
+The Forever Purge,2021,Everardo Gout,5.4,103 min,R,"Action, Crime, Horror",44.54
+The Happytime Murders,2018,Brian Henson,5.4,91 min,R,"Action, Comedy, Crime",20.71
+The Counselor,2013,Ridley Scott,5.4,117 min,R,"Crime, Drama, Thriller",16.97
+Blackhat,2015,Michael Mann,5.4,133 min,R,"Action, Crime, Thriller",7.1
+Get Rich or Die Tryin',2005,Jim Sheridan,5.4,117 min,R,"Biography, Crime, Drama",30.98
+The Whole Ten Yards,2004,Howard Deutch,5.4,98 min,PG-13,"Comedy, Crime, Thriller",16.32
+Dhoom 3,2013,Vijay Krishna Acharya,5.4,172 min,Not Rated,"Action, Crime, Drama",8.03
+Spring Breakers,2012,Harmony Korine,5.3,94 min,R,"Crime, Drama, Thriller",14.12
+Daredevil,2003,Mark Steven Johnson,5.3,103 min,PG-13,"Action, Crime",102.54
+Point Break,2015,Ericson Core,5.3,114 min,PG-13,"Action, Adventure, Crime",28.78
+Eye See You,2002,Jim Gillespie,5.3,96 min,R,"Crime, Thriller",0.08
+Max Payne,2008,John Moore,5.3,100 min,PG-13,"Action, Adventure, Crime",40.69
+The Watcher,(I) (2000),Joe Charbanic,5.3,97 min,R,"Crime, Drama, Mystery",28.93
+One for the Money,2012,Julie Anne Robinson,5.3,91 min,PG-13,"Action, Comedy, Crime",26.41
+The Resident,2011,Antti J. Jokinen,5.3,91 min,R,"Crime, Drama, Horror",28.582
+Trespass,2011,Joel Schumacher,5.3,91 min,R,"Crime, Drama, Thriller",0.02
+Balls of Fury,2007,Robert Ben Garant,5.3,90 min,PG-13,"Comedy, Crime, Sport",32.84
+Hollywood Homicide,2003,Ron Shelton,5.3,116 min,PG-13,"Action, Comedy, Crime",30.01
+Bangkok Dangerous,2008,Danny Pang,5.3,99 min,R,"Action, Crime, Thriller",15.28
+F9: The Fast Saga,2021,Justin Lin,5.2,143 min,PG-13,"Action, Crime, Thriller",173.2
+Spiral,2021,Darren Lynn Bousman,5.2,93 min,R,"Crime, Drama, Horror",55.135
+A Nightmare on Elm Street,2010,Samuel Bayer,5.2,95 min,R,"Crime, Drama, Horror",63.08
+Big Momma's House,2000,Raja Gosnell,5.2,99 min,PG-13,"Action, Comedy, Crime",117.56
+Paul Blart: Mall Cop,2009,Steve Carr,5.2,91 min,PG,"Action, Comedy, Crime",20.82
+Bachchhan Paandey,2022,Farhad Samji,5.2,147 min,,"Action, Comedy, Crime",35.895
+The Snowman,2017,Tomas Alfredson,5.1,119 min,R,"Crime, Drama, Thriller",6.67
+Miss Congeniality 2: Armed & Fabulous,2005,John Pasquin,5.1,115 min,PG-13,"Action, Comedy, Crime",48.48
+Cosmopolis,2012,David Cronenberg,5.1,109 min,R,"Crime, Drama, Fantasy",0.74
+Agent Cody Banks,2003,Harald Zwart,5.1,102 min,PG,"Action, Adventure, Comedy",47.94
+Hot Pursuit,2015,Anne Fletcher,5.1,87 min,PG-13,"Action, Comedy, Crime",34.51
+Alex Cross,2012,Rob Cohen,5.1,101 min,PG-13,"Action, Crime, Mystery",25.89
+Get Carter,2000,Stephen Kay,5.1,102 min,R,"Action, Crime, Drama",14.97
+Knock Knock,2019,Eli Roth,4.9,99 min,R,"Crime, Drama, Horror",0.04
+Charlie's Angels: Full Throttle,2003,McG,4.9,106 min,PG-13,"Action, Adventure, Comedy",100.83
+Blues Brothers 2000,1998,John Landis,4.9,123 min,PG-13,"Action, Comedy, Crime",13.98
+Police Academy 4: Citizens on Patrol,1987,Jim Drake,4.9,88 min,PG,"Comedy, Crime",28.06
+Happy New Year,(I) (2014),Farah Khan,4.9,180 min,Not Rated,"Action, Comedy, Crime",38.11
+Crocodile Dundee in Los Angeles,2001,Simon Wincer,4.8,95 min,PG,"Action, Adventure, Comedy",25.64
+Big Momma's House 2,2006,John Whitesell,4.8,99 min,PG-13,"Comedy, Crime",70.17
+Tekken,2010,Dwight H. Little,4.8,92 min,R,"Action, Crime, Drama",27.775
+Texas Chainsaw Massacre,2022,David Blue Garcia,4.7,81 min,R,"Crime, Horror, Thriller",54.345
+Elektra,2005,Rob Bowman,4.7,97 min,PG-13,"Action, Adventure, Crime",24.41
+The Spirit,2008,Frank Miller,4.7,103 min,PG-13,"Action, Crime, Fantasy",19.78
+Death Note,(I) (2017),Adam Wingard,4.6,101 min,TV-MA,"Crime, Drama, Fantasy",86.178
+Police Academy 5: Assignment: Miami Beach,1988,Alan Myerson,4.6,90 min,PG,"Comedy, Crime",4.24
+Home Alone 3,1997,Raja Gosnell,4.5,102 min,PG,"Action, Comedy, Crime",30.88
+Striptease,1996,Andrew Bergman,4.5,115 min,R,"Comedy, Crime, Drama",33.11
+Taxi,2016,Tim Story,4.5,97 min,PG-13,"Action, Comedy, Crime",36.61
+Kangaroo Jack,2003,David McNally,4.5,89 min,PG,"Action, Adventure, Comedy",66.93
+Little Man,(III) (2006),Keenen Ivory Wayans,4.4,98 min,PG-13,"Comedy, Crime",58.65
+Paul Blart: Mall Cop 2,2015,Andy Fickman,4.4,94 min,PG,"Action, Comedy, Crime",71.04
+xXx: State of the Union,2005,Lee Tamahori,4.4,101 min,PG-13,"Action, Adventure, Crime",26.87
+"Big Mommas: Like Father, Like Son",2011,John Whitesell,4.4,107 min,PG-13,"Action, Comedy, Crime",37.92
+Police Academy 6: City Under Siege,1989,Peter Bonerz,4.3,84 min,PG,"Comedy, Crime",11.57
+Inspector Gadget,1999,David Kellogg,4.1,78 min,PG,"Action, Adventure, Comedy",97.4
+RoboCop 3,1993,Fred Dekker,4.1,104 min,PG-13,"Action, Crime, Sci-Fi",10.7
+Torque,2004,Joseph Kahn,4.1,84 min,PG-13,"Action, Comedy, Crime",21.22
+Holmes & Watson,2018,Etan Cohen,3.9,90 min,PG-13,"Comedy, Crime, Mystery",30.57
+Speed 2: Cruise Control,1997,Jan de Bont,3.9,121 min,PG-13,"Action, Adventure, Crime",48.61
+Escape Plan 2: Hades,2018,Steven C. Miller,3.8,96 min,R,"Action, Crime, Mystery",32.716
+Catwoman,2004,Pitof,3.4,104 min,PG-13,"Action, Crime, Fantasy",40.2
+Police Academy: Mission to Moscow,1994,Alan Metter,3.4,83 min,PG,"Comedy, Crime",0.13
+Gigli,2003,Martin Brest,2.6,121 min,R,"Comedy, Crime, Romance",6.07
+Baby Geniuses,1999,Bob Clark,2.5,97 min,PG,"Comedy, Crime, Family",27.14
+Heropanti 2,2022,Ahmed Khan,2.5,145 min,,"Action, Comedy, Crime",26.743
+Radhe,2021,Prabhu Deva,1.9,135 min,TV-MA,"Action, Crime, Thriller",178.157
+Race 3,2018,Remo D'Souza,1.9,160 min,Not Rated,"Action, Crime, Thriller",1.69
+Code Name: K.O.Z.,2015,Celal Çimen,1.7,114 min,Not Rated,"Crime, Mystery",27.599
+The Cost of Deception,2021,Keith English,1.5,125 min,,"Action, Crime, Drama",39.094
