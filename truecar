@@ -1,0 +1,90 @@
+import requests
+from bs4 import BeautifulSoup
+import mysql.connector
+from mysql.connector import errorcode
+
+brand = input('Please Insert Your Brand: ')
+model = input('Please Insert Your Model: ')
+brand = brand.lower()
+model = model.lower()
+
+r = requests.get('https://www.truecar.com/used-cars-for-sale/listings/'+brand+'/'+model+'/')
+
+soup = BeautifulSoup(r.text, 'html.parser')
+val1 = soup.find_all(class_="font-size-1 text-truncate")
+
+gheymat = []
+for car in val1:
+    gheymat.append(car.text)
+
+nahaie = []
+for i in range(0,len(gheymat)):
+    if 'miles' in gheymat[i]:
+        nahaie.append(gheymat[i])
+nahaie = nahaie[:20]
+
+#print(nahaie)
+
+DB_NAME = input('Please Insert Your Database Name: ')
+
+TABLES = {}
+TABLES['truecar'] = (
+    "CREATE TABLE `truecar` ("
+    "  `miles` varchar(100) NOT NULL,"
+    "  PRIMARY KEY (`miles`)"
+    ") ENGINE=InnoDB")
+
+cnx = mysql.connector.connect(user='root', password='2711375',host='127.0.0.1')
+cursor = cnx.cursor()
+
+def create_database(cursor):
+    try:
+        cursor.execute(
+            "CREATE DATABASE {} DEFAULT CHARACTER SET 'utf8'".format(DB_NAME))
+    except mysql.connector.Error as err:
+        print("Failed creating database: {}".format(err))
+        exit(1)
+
+try:
+    cursor.execute("USE {}".format(DB_NAME))
+except mysql.connector.Error as err:
+    print("Database {} does not exists.".format(DB_NAME))
+    if err.errno == errorcode.ER_BAD_DB_ERROR:
+        create_database(cursor)
+        print("Database {} created successfully.".format(DB_NAME))
+        cnx.database = DB_NAME
+    else:
+        print(err)
+        exit(1)
+
+for truecar in TABLES:
+    table_description = TABLES[truecar]
+    try:
+        print("Creating table {}: ".format(truecar), end='')
+        cursor.execute(table_description)
+    except mysql.connector.Error as err:
+        if err.errno == errorcode.ER_TABLE_EXISTS_ERROR:
+            print("already exists.")
+        else:
+            print(err.msg)
+    else:
+        print("OK")
+
+cnx = mysql.connector.connect(user='root', password='2711375',host='127.0.0.1', database=DB_NAME)
+cursor = cnx.cursor()
+
+add_car = ("INSERT INTO truecar "
+               "(miles)"
+               "VALUES (%s)")
+
+data_car = nahaie
+
+print(data_car)
+
+for i in range(0, len(nahaie)):
+    data_car = nahaie[i]
+    cursor.execute(add_car, (data_car,))
+
+cnx.commit()
+cursor.close()
+cnx.close()
