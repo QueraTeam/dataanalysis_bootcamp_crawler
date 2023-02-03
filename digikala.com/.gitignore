@@ -1,0 +1,5 @@
+geckodriver.log
+*.css
+Drivers/*
+report.txt
+*.pyc
