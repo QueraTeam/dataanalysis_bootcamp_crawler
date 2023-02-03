@@ -8,22 +8,4 @@
 # Site: 
     alibaba.ir
 
-# how to use:
-    go to the main file and write:
-
-    ```python
-    from tools.data import TOUR
-
-    ```
-    tour class has options for search and works on Firefox 
-
-    ```python
-    
-    TOUR('firefox',
-    origin = 'تهران',
-    destination = 'کیش' ,
-    departure_date = '2023-02-25',
-    return_date = '2023-03-15',
-    rooms = 1,
-    persons = 1)
-    ```
+This page will change
