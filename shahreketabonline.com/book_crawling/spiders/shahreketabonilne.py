@@ -8,6 +8,7 @@ from tqdm import tqdm
 import pandas as pd
 from datetime import datetime
 
+details ={}
 
 def get_start_urls() -> list:
     res_list = []
@@ -34,8 +35,8 @@ def get_start_urls() -> list:
     GROUP BY
     page_number 
     ORDER BY
-	avg_time ASC
-	"""
+    avg_time ASC
+    """
 
     df = database_handler.get_data(sql_query)
     if len(df):
@@ -49,6 +50,7 @@ def get_start_urls() -> list:
     exists_page_with_priority = list(filter(lambda x: x not in new_page, database_page))
 
     page_priority = new_page + exists_page_with_priority
+    print(page_priority)
 
     for item in page_priority:
         res_list.append(
@@ -79,12 +81,12 @@ class ShahreketabonilneSpider(scrapy.Spider):
     count = 0
 
     def parse(self, response, **kwargs):
-        for url in self.start_urls:
-            page_number = int(url.split("Page=")[1].split("&")[0])
+        for i, url in enumerate(self.start_urls):
+            # page_number = int(url.split("Page=")[1].split("&")[0])
             yield scrapy.Request(url,
                                  callback=self.parse_product,
                                  headers=self.base_headers,
-                                 priority=len(self.start_urls) - page_number)
+                                 priority=len(self.start_urls) - (i+1))
 
     def parse_product(self, response):
         print(response.url)
