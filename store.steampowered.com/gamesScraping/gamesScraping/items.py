@@ -7,5 +7,7 @@ from scrapy import Item, Field
 
 
 class Game(Item):
-    title = Field()
-    url   = Field()
+    title         = Field()
+    url           = Field()
+    date_released = Field()
+    price         = Field()
